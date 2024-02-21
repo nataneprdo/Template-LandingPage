@@ -1,0 +1,1614 @@
+[2023-11-22 17:22:40 : INFO] - Re_Smush_It_Task with attachment ID : 23, autocreated on : November 22, 2023 05:22:40 
+[2023-11-22 17:28:17 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2023-11-22 17:28:17 : DEBUG] - Lock option (updraft_lock_smush, _clinicaoptions) was created in the database 
+[2023-11-22 17:28:17 : INFO] - Lock (updraft_lock_smush, _clinicaoptions) acquired after initialising the database 
+[2023-11-22 17:28:17 : INFO] - Processing task with ID : 1, and type 'smush' 
+[2023-11-22 17:28:17 : INFO] - Re_Smush_It_Task with attachment ID : 23, autocreated on : November 22, 2023 05:22:40 
+[2023-11-22 17:28:17 : INFO] - File: plano-de-fundo1.jpg, Compression quality: 92 
+[2023-11-22 17:28:20 : INFO] - Backing up the original image - 2023/11/plano-de-fundo1-updraft-pre-smush-original.jpg 
+[2023-11-22 17:28:27 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:28:27 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/11/plano-de-fundo1.jpg.The file was compressed from 135.85 KB to 107.85 KB, saving 20.61 percent, using WP-Optimize 
+[2023-11-22 17:28:27 : INFO] - Completed processing task with ID : 1, and type 'smush' 
+[2023-11-22 17:28:27 : INFO] - Lock option (updraft_lock_smush, _clinicaoptions) released 
+[2023-11-22 17:28:27 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2023-11-22 17:28:27 : INFO] - Lock option (updraft_lock_smush, _clinicaoptions) was deleted from the database 
+[2023-11-22 17:28:27 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2023-11-22 17:33:25 : INFO] - Re_Smush_It_Task with attachment ID : 1202, autocreated on : November 22, 2023 05:33:25 
+[2023-11-22 17:33:26 : INFO] - Re_Smush_It_Task with attachment ID : 1203, autocreated on : November 22, 2023 05:33:26 
+[2023-11-22 17:33:26 : INFO] - Re_Smush_It_Task with attachment ID : 1204, autocreated on : November 22, 2023 05:33:26 
+[2023-11-22 17:33:27 : INFO] - Re_Smush_It_Task with attachment ID : 1205, autocreated on : November 22, 2023 05:33:27 
+[2023-11-22 17:33:28 : INFO] - Re_Smush_It_Task with attachment ID : 1206, autocreated on : November 22, 2023 05:33:28 
+[2023-11-22 17:33:29 : INFO] - Re_Smush_It_Task with attachment ID : 1207, autocreated on : November 22, 2023 05:33:29 
+[2023-11-22 17:33:29 : INFO] - Re_Smush_It_Task with attachment ID : 1208, autocreated on : November 22, 2023 05:33:29 
+[2023-11-22 17:33:30 : INFO] - Re_Smush_It_Task with attachment ID : 1209, autocreated on : November 22, 2023 05:33:30 
+[2023-11-22 17:33:31 : INFO] - Re_Smush_It_Task with attachment ID : 1210, autocreated on : November 22, 2023 05:33:31 
+[2023-11-22 17:33:31 : INFO] - Re_Smush_It_Task with attachment ID : 1211, autocreated on : November 22, 2023 05:33:31 
+[2023-11-22 17:33:32 : INFO] - Re_Smush_It_Task with attachment ID : 1212, autocreated on : November 22, 2023 05:33:32 
+[2023-11-22 17:33:33 : INFO] - Re_Smush_It_Task with attachment ID : 1213, autocreated on : November 22, 2023 05:33:33 
+[2023-11-22 17:33:35 : INFO] - Re_Smush_It_Task with attachment ID : 1222, autocreated on : November 22, 2023 05:33:35 
+[2023-11-22 17:33:35 : INFO] - Re_Smush_It_Task with attachment ID : 1223, autocreated on : November 22, 2023 05:33:35 
+[2023-11-22 17:33:36 : INFO] - Re_Smush_It_Task with attachment ID : 1225, autocreated on : November 22, 2023 05:33:36 
+[2023-11-22 17:33:37 : INFO] - Re_Smush_It_Task with attachment ID : 1226, autocreated on : November 22, 2023 05:33:37 
+[2023-11-22 17:33:37 : INFO] - Re_Smush_It_Task with attachment ID : 1227, autocreated on : November 22, 2023 05:33:37 
+[2023-11-22 17:33:38 : INFO] - Re_Smush_It_Task with attachment ID : 1231, autocreated on : November 22, 2023 05:33:38 
+[2023-11-22 17:33:39 : INFO] - Re_Smush_It_Task with attachment ID : 1232, autocreated on : November 22, 2023 05:33:39 
+[2023-11-22 17:33:40 : INFO] - Re_Smush_It_Task with attachment ID : 1233, autocreated on : November 22, 2023 05:33:40 
+[2023-11-22 17:33:40 : INFO] - Re_Smush_It_Task with attachment ID : 1234, autocreated on : November 22, 2023 05:33:40 
+[2023-11-22 17:33:41 : INFO] - Re_Smush_It_Task with attachment ID : 1235, autocreated on : November 22, 2023 05:33:41 
+[2023-11-22 17:33:42 : INFO] - Re_Smush_It_Task with attachment ID : 1236, autocreated on : November 22, 2023 05:33:42 
+[2023-11-22 17:33:43 : INFO] - Re_Smush_It_Task with attachment ID : 1237, autocreated on : November 22, 2023 05:33:43 
+[2023-11-22 17:33:44 : INFO] - Re_Smush_It_Task with attachment ID : 1238, autocreated on : November 22, 2023 05:33:44 
+[2023-11-22 17:33:44 : INFO] - Re_Smush_It_Task with attachment ID : 1242, autocreated on : November 22, 2023 05:33:44 
+[2023-11-22 17:33:45 : INFO] - Re_Smush_It_Task with attachment ID : 1243, autocreated on : November 22, 2023 05:33:45 
+[2023-11-22 17:33:46 : INFO] - Re_Smush_It_Task with attachment ID : 1245, autocreated on : November 22, 2023 05:33:46 
+[2023-11-22 17:33:47 : INFO] - Re_Smush_It_Task with attachment ID : 1246, autocreated on : November 22, 2023 05:33:47 
+[2023-11-22 17:33:47 : INFO] - Re_Smush_It_Task with attachment ID : 1247, autocreated on : November 22, 2023 05:33:47 
+[2023-11-22 17:33:48 : INFO] - Re_Smush_It_Task with attachment ID : 1248, autocreated on : November 22, 2023 05:33:48 
+[2023-11-22 17:33:49 : INFO] - Re_Smush_It_Task with attachment ID : 1249, autocreated on : November 22, 2023 05:33:49 
+[2023-11-22 17:33:50 : INFO] - Re_Smush_It_Task with attachment ID : 1250, autocreated on : November 22, 2023 05:33:50 
+[2023-11-22 17:33:50 : INFO] - Re_Smush_It_Task with attachment ID : 1251, autocreated on : November 22, 2023 05:33:50 
+[2023-11-22 17:33:51 : INFO] - Re_Smush_It_Task with attachment ID : 1252, autocreated on : November 22, 2023 05:33:51 
+[2023-11-22 17:33:52 : INFO] - Re_Smush_It_Task with attachment ID : 1253, autocreated on : November 22, 2023 05:33:52 
+[2023-11-22 17:33:53 : INFO] - Re_Smush_It_Task with attachment ID : 1260, autocreated on : November 22, 2023 05:33:53 
+[2023-11-22 17:33:54 : INFO] - Re_Smush_It_Task with attachment ID : 1261, autocreated on : November 22, 2023 05:33:54 
+[2023-11-22 17:33:54 : INFO] - Re_Smush_It_Task with attachment ID : 1287, autocreated on : November 22, 2023 05:33:54 
+[2023-11-22 17:33:55 : INFO] - Re_Smush_It_Task with attachment ID : 1322, autocreated on : November 22, 2023 05:33:55 
+[2023-11-22 17:33:56 : INFO] - Re_Smush_It_Task with attachment ID : 1349, autocreated on : November 22, 2023 05:33:56 
+[2023-11-22 17:33:57 : INFO] - Re_Smush_It_Task with attachment ID : 1739, autocreated on : November 22, 2023 05:33:57 
+[2023-11-22 17:33:58 : INFO] - Re_Smush_It_Task with attachment ID : 1745, autocreated on : November 22, 2023 05:33:58 
+[2023-11-22 17:33:59 : INFO] - Re_Smush_It_Task with attachment ID : 1746, autocreated on : November 22, 2023 05:33:59 
+[2023-11-22 17:34:00 : INFO] - Re_Smush_It_Task with attachment ID : 1750, autocreated on : November 22, 2023 05:34:00 
+[2023-11-22 17:34:01 : INFO] - Re_Smush_It_Task with attachment ID : 1751, autocreated on : November 22, 2023 05:34:01 
+[2023-11-22 17:34:01 : INFO] - Re_Smush_It_Task with attachment ID : 1752, autocreated on : November 22, 2023 05:34:01 
+[2023-11-22 17:34:02 : INFO] - Re_Smush_It_Task with attachment ID : 1837, autocreated on : November 22, 2023 05:34:02 
+[2023-11-22 17:34:05 : INFO] - Re_Smush_It_Task with attachment ID : 1839, autocreated on : November 22, 2023 05:34:05 
+[2023-11-22 17:34:05 : INFO] - Re_Smush_It_Task with attachment ID : 1841, autocreated on : November 22, 2023 05:34:05 
+[2023-11-22 17:34:06 : INFO] - Re_Smush_It_Task with attachment ID : 1842, autocreated on : November 22, 2023 05:34:06 
+[2023-11-22 17:34:06 : INFO] - Re_Smush_It_Task with attachment ID : 1843, autocreated on : November 22, 2023 05:34:06 
+[2023-11-22 17:34:07 : INFO] - Re_Smush_It_Task with attachment ID : 1844, autocreated on : November 22, 2023 05:34:07 
+[2023-11-22 17:34:08 : INFO] - Re_Smush_It_Task with attachment ID : 1847, autocreated on : November 22, 2023 05:34:08 
+[2023-11-22 17:34:08 : INFO] - Re_Smush_It_Task with attachment ID : 1848, autocreated on : November 22, 2023 05:34:08 
+[2023-11-22 17:34:09 : INFO] - Re_Smush_It_Task with attachment ID : 1849, autocreated on : November 22, 2023 05:34:09 
+[2023-11-22 17:34:10 : INFO] - Re_Smush_It_Task with attachment ID : 1850, autocreated on : November 22, 2023 05:34:10 
+[2023-11-22 17:34:10 : INFO] - Re_Smush_It_Task with attachment ID : 1851, autocreated on : November 22, 2023 05:34:10 
+[2023-11-22 17:34:11 : INFO] - Re_Smush_It_Task with attachment ID : 1852, autocreated on : November 22, 2023 05:34:11 
+[2023-11-22 17:38:47 : INFO] - A total of 59 tasks of type smush found and will be processed in this iteration 
+[2023-11-22 17:38:47 : DEBUG] - Lock option (updraft_lock_smush, _clinicaoptions) was created in the database 
+[2023-11-22 17:38:47 : INFO] - Lock (updraft_lock_smush, _clinicaoptions) acquired after initialising the database 
+[2023-11-22 17:38:47 : INFO] - Processing task with ID : 2, and type 'smush' 
+[2023-11-22 17:38:47 : INFO] - Re_Smush_It_Task with attachment ID : 1202, autocreated on : November 22, 2023 05:33:25 
+[2023-11-22 17:38:47 : INFO] - File: home-banner.jpg, Compression quality: 92 
+[2023-11-22 17:38:49 : INFO] - Backing up the original image - 2020/05/home-banner-updraft-pre-smush-original.jpg 
+[2023-11-22 17:38:58 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:38:58 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/home-banner.jpg.The file was compressed from 125.91 KB to 124.29 KB, saving 1.29 percent, using WP-Optimize 
+[2023-11-22 17:38:58 : INFO] - Completed processing task with ID : 2, and type 'smush' 
+[2023-11-22 17:38:58 : INFO] - Processing task with ID : 3, and type 'smush' 
+[2023-11-22 17:38:58 : INFO] - Re_Smush_It_Task with attachment ID : 1203, autocreated on : November 22, 2023 05:33:26 
+[2023-11-22 17:38:58 : INFO] - File: home-model1.jpg, Compression quality: 92 
+[2023-11-22 17:39:00 : INFO] - Backing up the original image - 2020/05/home-model1-updraft-pre-smush-original.jpg 
+[2023-11-22 17:39:02 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:39:02 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/home-model1.jpg.The file was compressed from 26.98 KB to 26.84 KB, saving 0.54 percent, using WP-Optimize 
+[2023-11-22 17:39:02 : INFO] - Completed processing task with ID : 3, and type 'smush' 
+[2023-11-22 17:39:02 : INFO] - Processing task with ID : 4, and type 'smush' 
+[2023-11-22 17:39:02 : INFO] - Re_Smush_It_Task with attachment ID : 1204, autocreated on : November 22, 2023 05:33:26 
+[2023-11-22 17:39:02 : INFO] - File: home-model2.jpg, Compression quality: 92 
+[2023-11-22 17:39:03 : INFO] - Backing up the original image - 2020/05/home-model2-updraft-pre-smush-original.jpg 
+[2023-11-22 17:39:05 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:39:05 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/home-model2.jpg.The file was compressed from 15.92 KB to 15.92 KB, saving 0 percent, using WP-Optimize 
+[2023-11-22 17:39:05 : INFO] - Completed processing task with ID : 4, and type 'smush' 
+[2023-11-22 17:39:05 : INFO] - Processing task with ID : 5, and type 'smush' 
+[2023-11-22 17:39:05 : INFO] - Re_Smush_It_Task with attachment ID : 1205, autocreated on : November 22, 2023 05:33:27 
+[2023-11-22 17:39:05 : INFO] - File: home-model3.jpg, Compression quality: 92 
+[2023-11-22 17:39:08 : INFO] - Backing up the original image - 2020/05/home-model3-updraft-pre-smush-original.jpg 
+[2023-11-22 17:39:11 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:39:11 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/home-model3.jpg.The file was compressed from 17.00 KB to 17.00 KB, saving 0 percent, using WP-Optimize 
+[2023-11-22 17:39:11 : INFO] - Completed processing task with ID : 5, and type 'smush' 
+[2023-11-22 17:39:11 : INFO] - Processing task with ID : 6, and type 'smush' 
+[2023-11-22 17:39:11 : INFO] - Re_Smush_It_Task with attachment ID : 1206, autocreated on : November 22, 2023 05:33:28 
+[2023-11-22 17:39:11 : INFO] - File: bridal-makeup2.jpg, Compression quality: 92 
+[2023-11-22 17:39:13 : INFO] - Backing up the original image - 2020/05/bridal-makeup2-updraft-pre-smush-original.jpg 
+[2023-11-22 17:39:16 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:39:16 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/bridal-makeup2.jpg.The file was compressed from 80.33 KB to 80.33 KB, saving 0 percent, using WP-Optimize 
+[2023-11-22 17:39:16 : INFO] - Completed processing task with ID : 6, and type 'smush' 
+[2023-11-22 17:39:16 : INFO] - Processing task with ID : 7, and type 'smush' 
+[2023-11-22 17:39:16 : INFO] - Re_Smush_It_Task with attachment ID : 1207, autocreated on : November 22, 2023 05:33:29 
+[2023-11-22 17:39:16 : INFO] - File: Engagement-Ring-free-img.png, Compression quality: 92 
+[2023-11-22 17:39:18 : INFO] - Backing up the original image - 2020/05/Engagement-Ring-free-img-updraft-pre-smush-original.png 
+[2023-11-22 17:39:18 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:39:18 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/Engagement-Ring-free-img.png.The file was compressed from 2.08 KB to 1.43 KB, saving 31.3 percent, using WP-Optimize 
+[2023-11-22 17:39:18 : INFO] - Completed processing task with ID : 7, and type 'smush' 
+[2023-11-22 17:39:18 : INFO] - Processing task with ID : 8, and type 'smush' 
+[2023-11-22 17:39:18 : INFO] - Re_Smush_It_Task with attachment ID : 1208, autocreated on : November 22, 2023 05:33:29 
+[2023-11-22 17:39:18 : INFO] - File: Romantic-Music-free-img.png, Compression quality: 92 
+[2023-11-22 17:39:19 : INFO] - Backing up the original image - 2020/05/Romantic-Music-free-img-updraft-pre-smush-original.png 
+[2023-11-22 17:39:19 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:39:19 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/Romantic-Music-free-img.png.The file was compressed from 1.87 KB to 1.39 KB, saving 25.64 percent, using WP-Optimize 
+[2023-11-22 17:39:19 : INFO] - Completed processing task with ID : 8, and type 'smush' 
+[2023-11-22 17:39:19 : INFO] - Processing task with ID : 9, and type 'smush' 
+[2023-11-22 17:39:19 : INFO] - Re_Smush_It_Task with attachment ID : 1209, autocreated on : November 22, 2023 05:33:30 
+[2023-11-22 17:39:19 : INFO] - File: Lipstick-free-img.png, Compression quality: 92 
+[2023-11-22 17:39:20 : INFO] - Backing up the original image - 2020/05/Lipstick-free-img-updraft-pre-smush-original.png 
+[2023-11-22 17:39:20 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:39:20 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/Lipstick-free-img.png.The file was compressed from 1.55 KB to 1.20 KB, saving 22.71 percent, using WP-Optimize 
+[2023-11-22 17:39:20 : INFO] - Completed processing task with ID : 9, and type 'smush' 
+[2023-11-22 17:39:20 : INFO] - Processing task with ID : 10, and type 'smush' 
+[2023-11-22 17:39:20 : INFO] - Re_Smush_It_Task with attachment ID : 1210, autocreated on : November 22, 2023 05:33:31 
+[2023-11-22 17:39:20 : INFO] - File: Photo-Camera-free-img.png, Compression quality: 92 
+[2023-11-22 17:39:24 : INFO] - Backing up the original image - 2020/05/Photo-Camera-free-img-updraft-pre-smush-original.png 
+[2023-11-22 17:39:24 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:39:24 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/Photo-Camera-free-img.png.The file was compressed from 2.01 KB to 1.45 KB, saving 28.16 percent, using WP-Optimize 
+[2023-11-22 17:39:24 : INFO] - Completed processing task with ID : 10, and type 'smush' 
+[2023-11-22 17:39:24 : INFO] - Processing task with ID : 11, and type 'smush' 
+[2023-11-22 17:39:24 : INFO] - Re_Smush_It_Task with attachment ID : 1211, autocreated on : November 22, 2023 05:33:31 
+[2023-11-22 17:39:24 : INFO] - File: sale-badge.png, Compression quality: 92 
+[2023-11-22 17:39:26 : INFO] - Backing up the original image - 2020/05/sale-badge-updraft-pre-smush-original.png 
+[2023-11-22 17:39:27 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:39:27 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/sale-badge.png.The file was compressed from 29.37 KB to 14.98 KB, saving 49.01 percent, using WP-Optimize 
+[2023-11-22 17:39:27 : INFO] - Completed processing task with ID : 11, and type 'smush' 
+[2023-11-22 17:39:27 : INFO] - Processing task with ID : 12, and type 'smush' 
+[2023-11-22 17:39:27 : INFO] - Re_Smush_It_Task with attachment ID : 1212, autocreated on : November 22, 2023 05:33:32 
+[2023-11-22 17:39:27 : INFO] - File: GlitterBG-free-img.jpg, Compression quality: 92 
+[2023-11-22 17:39:29 : INFO] - Backing up the original image - 2020/05/GlitterBG-free-img-updraft-pre-smush-original.jpg 
+[2023-11-22 17:39:35 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:39:35 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/GlitterBG-free-img.jpg.The file was compressed from 121.64 KB to 121.64 KB, saving 0 percent, using WP-Optimize 
+[2023-11-22 17:39:35 : INFO] - Completed processing task with ID : 12, and type 'smush' 
+[2023-11-22 17:39:35 : INFO] - Processing task with ID : 13, and type 'smush' 
+[2023-11-22 17:39:35 : INFO] - Re_Smush_It_Task with attachment ID : 1213, autocreated on : November 22, 2023 05:33:33 
+[2023-11-22 17:39:35 : INFO] - File: pricing-bg.jpg, Compression quality: 92 
+[2023-11-22 17:39:37 : INFO] - Backing up the original image - 2020/05/pricing-bg-updraft-pre-smush-original.jpg 
+[2023-11-22 17:39:43 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:39:43 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/pricing-bg.jpg.The file was compressed from 104.24 KB to 103.13 KB, saving 1.06 percent, using WP-Optimize 
+[2023-11-22 17:39:43 : INFO] - Completed processing task with ID : 13, and type 'smush' 
+[2023-11-22 17:39:43 : INFO] - Processing task with ID : 14, and type 'smush' 
+[2023-11-22 17:39:43 : INFO] - Re_Smush_It_Task with attachment ID : 1222, autocreated on : November 22, 2023 05:33:35 
+[2023-11-22 17:39:43 : INFO] - File: make-up-kit.jpg, Compression quality: 92 
+[2023-11-22 17:39:46 : INFO] - Backing up the original image - 2020/05/make-up-kit-updraft-pre-smush-original.jpg 
+[2023-11-22 17:39:54 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:39:54 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/make-up-kit.jpg.The file was compressed from 151.72 KB to 150.17 KB, saving 1.02 percent, using WP-Optimize 
+[2023-11-22 17:39:54 : INFO] - Completed processing task with ID : 14, and type 'smush' 
+[2023-11-22 17:39:54 : INFO] - Processing task with ID : 15, and type 'smush' 
+[2023-11-22 17:39:54 : INFO] - Re_Smush_It_Task with attachment ID : 1223, autocreated on : November 22, 2023 05:33:35 
+[2023-11-22 17:39:54 : INFO] - File: profile-image.jpg, Compression quality: 92 
+[2023-11-22 17:39:56 : INFO] - Backing up the original image - 2020/05/profile-image-updraft-pre-smush-original.jpg 
+[2023-11-22 17:39:58 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:39:58 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/profile-image.jpg.The file was compressed from 75.37 KB to 74.39 KB, saving 1.3 percent, using WP-Optimize 
+[2023-11-22 17:39:58 : INFO] - Completed processing task with ID : 15, and type 'smush' 
+[2023-11-22 17:39:58 : INFO] - Processing task with ID : 16, and type 'smush' 
+[2023-11-22 17:39:58 : INFO] - Re_Smush_It_Task with attachment ID : 1225, autocreated on : November 22, 2023 05:33:36 
+[2023-11-22 17:39:58 : INFO] - File: artist1.jpg, Compression quality: 92 
+[2023-11-22 17:39:59 : INFO] - Backing up the original image - 2020/05/artist1-updraft-pre-smush-original.jpg 
+[2023-11-22 17:40:01 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:40:01 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/artist1.jpg.The file was compressed from 36.70 KB to 36.29 KB, saving 1.11 percent, using WP-Optimize 
+[2023-11-22 17:40:01 : INFO] - Completed processing task with ID : 16, and type 'smush' 
+[2023-11-22 17:40:01 : INFO] - Processing task with ID : 17, and type 'smush' 
+[2023-11-22 17:40:01 : INFO] - Re_Smush_It_Task with attachment ID : 1226, autocreated on : November 22, 2023 05:33:37 
+[2023-11-22 17:40:01 : INFO] - File: artist2.jpg, Compression quality: 92 
+[2023-11-22 17:40:04 : INFO] - Backing up the original image - 2020/05/artist2-updraft-pre-smush-original.jpg 
+[2023-11-22 17:40:06 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:40:06 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/artist2.jpg.The file was compressed from 21.68 KB to 21.51 KB, saving 0.81 percent, using WP-Optimize 
+[2023-11-22 17:40:06 : INFO] - Completed processing task with ID : 17, and type 'smush' 
+[2023-11-22 17:40:06 : INFO] - Processing task with ID : 18, and type 'smush' 
+[2023-11-22 17:40:06 : INFO] - Re_Smush_It_Task with attachment ID : 1227, autocreated on : November 22, 2023 05:33:37 
+[2023-11-22 17:40:06 : INFO] - File: artist3.jpg, Compression quality: 92 
+[2023-11-22 17:40:07 : INFO] - Backing up the original image - 2020/05/artist3-updraft-pre-smush-original.jpg 
+[2023-11-22 17:40:09 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:40:09 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/artist3.jpg.The file was compressed from 21.00 KB to 20.66 KB, saving 1.62 percent, using WP-Optimize 
+[2023-11-22 17:40:09 : INFO] - Completed processing task with ID : 18, and type 'smush' 
+[2023-11-22 17:40:09 : INFO] - Processing task with ID : 19, and type 'smush' 
+[2023-11-22 17:40:09 : INFO] - Re_Smush_It_Task with attachment ID : 1231, autocreated on : November 22, 2023 05:33:38 
+[2023-11-22 17:40:09 : INFO] - File: Nail-free-img.png, Compression quality: 92 
+[2023-11-22 17:40:10 : INFO] - Backing up the original image - 2020/05/Nail-free-img-updraft-pre-smush-original.png 
+[2023-11-22 17:40:10 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:40:10 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/Nail-free-img.png.The file was compressed from 2.15 KB to 1.48 KB, saving 31.06 percent, using WP-Optimize 
+[2023-11-22 17:40:10 : INFO] - Completed processing task with ID : 19, and type 'smush' 
+[2023-11-22 17:40:10 : INFO] - Processing task with ID : 20, and type 'smush' 
+[2023-11-22 17:40:10 : INFO] - Re_Smush_It_Task with attachment ID : 1232, autocreated on : November 22, 2023 05:33:39 
+[2023-11-22 17:40:10 : INFO] - File: Salon-free-img.png, Compression quality: 92 
+[2023-11-22 17:40:14 : INFO] - Backing up the original image - 2020/05/Salon-free-img-updraft-pre-smush-original.png 
+[2023-11-22 17:40:14 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:40:14 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/Salon-free-img.png.The file was compressed from 2.32 KB to 1.54 KB, saving 33.78 percent, using WP-Optimize 
+[2023-11-22 17:40:14 : INFO] - Completed processing task with ID : 20, and type 'smush' 
+[2023-11-22 17:40:14 : INFO] - Processing task with ID : 21, and type 'smush' 
+[2023-11-22 17:40:14 : INFO] - Re_Smush_It_Task with attachment ID : 1233, autocreated on : November 22, 2023 05:33:40 
+[2023-11-22 17:40:14 : INFO] - File: Relax-free-img.png, Compression quality: 92 
+[2023-11-22 17:40:15 : INFO] - Backing up the original image - 2020/05/Relax-free-img-updraft-pre-smush-original.png 
+[2023-11-22 17:40:15 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:40:15 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/Relax-free-img.png.The file was compressed from 2.06 KB to 1.44 KB, saving 30.27 percent, using WP-Optimize 
+[2023-11-22 17:40:15 : INFO] - Completed processing task with ID : 21, and type 'smush' 
+[2023-11-22 17:40:15 : INFO] - Processing task with ID : 22, and type 'smush' 
+[2023-11-22 17:40:15 : INFO] - Re_Smush_It_Task with attachment ID : 1234, autocreated on : November 22, 2023 05:33:40 
+[2023-11-22 17:40:15 : INFO] - File: Cosmetics-free-img.png, Compression quality: 92 
+[2023-11-22 17:40:16 : INFO] - Backing up the original image - 2020/05/Cosmetics-free-img-updraft-pre-smush-original.png 
+[2023-11-22 17:40:16 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:40:16 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/Cosmetics-free-img.png.The file was compressed from 2.37 KB to 1.64 KB, saving 30.77 percent, using WP-Optimize 
+[2023-11-22 17:40:16 : INFO] - Completed processing task with ID : 22, and type 'smush' 
+[2023-11-22 17:40:16 : INFO] - Processing task with ID : 23, and type 'smush' 
+[2023-11-22 17:40:16 : INFO] - Re_Smush_It_Task with attachment ID : 1235, autocreated on : November 22, 2023 05:33:41 
+[2023-11-22 17:40:16 : INFO] - File: Hot-stones-free-img.png, Compression quality: 92 
+[2023-11-22 17:40:18 : INFO] - Backing up the original image - 2020/05/Hot-stones-free-img-updraft-pre-smush-original.png 
+[2023-11-22 17:40:18 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:40:18 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/Hot-stones-free-img.png.The file was compressed from 2.04 KB to 1.43 KB, saving 30.23 percent, using WP-Optimize 
+[2023-11-22 17:40:18 : INFO] - Completed processing task with ID : 23, and type 'smush' 
+[2023-11-22 17:40:18 : INFO] - Processing task with ID : 24, and type 'smush' 
+[2023-11-22 17:40:18 : INFO] - Re_Smush_It_Task with attachment ID : 1236, autocreated on : November 22, 2023 05:33:42 
+[2023-11-22 17:40:18 : INFO] - File: Kiss-free-img.png, Compression quality: 92 
+[2023-11-22 17:40:19 : INFO] - Backing up the original image - 2020/05/Kiss-free-img-updraft-pre-smush-original.png 
+[2023-11-22 17:40:19 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:40:19 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/Kiss-free-img.png.The file was compressed from 1.77 KB to 1.32 KB, saving 25.59 percent, using WP-Optimize 
+[2023-11-22 17:40:19 : INFO] - Completed processing task with ID : 24, and type 'smush' 
+[2023-11-22 17:40:19 : INFO] - Processing task with ID : 25, and type 'smush' 
+[2023-11-22 17:40:19 : INFO] - Re_Smush_It_Task with attachment ID : 1237, autocreated on : November 22, 2023 05:33:43 
+[2023-11-22 17:40:19 : INFO] - File: bridal-makeup1.jpg, Compression quality: 92 
+[2023-11-22 17:40:21 : INFO] - Backing up the original image - 2020/05/bridal-makeup1-updraft-pre-smush-original.jpg 
+[2023-11-22 17:40:23 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:40:23 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/bridal-makeup1.jpg.The file was compressed from 73.92 KB to 73.92 KB, saving 0 percent, using WP-Optimize 
+[2023-11-22 17:40:23 : INFO] - Completed processing task with ID : 25, and type 'smush' 
+[2023-11-22 17:40:23 : INFO] - Processing task with ID : 26, and type 'smush' 
+[2023-11-22 17:40:23 : INFO] - Re_Smush_It_Task with attachment ID : 1238, autocreated on : November 22, 2023 05:33:44 
+[2023-11-22 17:40:23 : INFO] - File: bridal-makeup3.jpg, Compression quality: 92 
+[2023-11-22 17:40:25 : INFO] - Backing up the original image - 2020/05/bridal-makeup3-updraft-pre-smush-original.jpg 
+[2023-11-22 17:40:29 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:40:29 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/bridal-makeup3.jpg.The file was compressed from 110.33 KB to 109.27 KB, saving 0.96 percent, using WP-Optimize 
+[2023-11-22 17:40:29 : INFO] - Completed processing task with ID : 26, and type 'smush' 
+[2023-11-22 17:40:29 : INFO] - Processing task with ID : 27, and type 'smush' 
+[2023-11-22 17:40:29 : INFO] - Re_Smush_It_Task with attachment ID : 1242, autocreated on : November 22, 2023 05:33:44 
+[2023-11-22 17:40:29 : INFO] - File: Makeup-Girldoingmakeup-free-img.jpg, Compression quality: 92 
+[2023-11-22 17:40:33 : INFO] - Backing up the original image - 2020/05/Makeup-Girldoingmakeup-free-img-updraft-pre-smush-original.jpg 
+[2023-11-22 17:40:34 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:40:34 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/Makeup-Girldoingmakeup-free-img.jpg.The file was compressed from 10.56 KB to 10.56 KB, saving 0 percent, using WP-Optimize 
+[2023-11-22 17:40:34 : INFO] - Completed processing task with ID : 27, and type 'smush' 
+[2023-11-22 17:40:34 : INFO] - Processing task with ID : 28, and type 'smush' 
+[2023-11-22 17:40:34 : INFO] - Re_Smush_It_Task with attachment ID : 1243, autocreated on : November 22, 2023 05:33:45 
+[2023-11-22 17:40:34 : INFO] - File: Bride-gallery-free-img.jpg, Compression quality: 92 
+[2023-11-22 17:40:35 : INFO] - Backing up the original image - 2020/05/Bride-gallery-free-img-updraft-pre-smush-original.jpg 
+[2023-11-22 17:40:37 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:40:37 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/Bride-gallery-free-img.jpg.The file was compressed from 9.68 KB to 9.68 KB, saving 0 percent, using WP-Optimize 
+[2023-11-22 17:40:37 : INFO] - Completed processing task with ID : 28, and type 'smush' 
+[2023-11-22 17:40:37 : INFO] - Processing task with ID : 29, and type 'smush' 
+[2023-11-22 17:40:37 : INFO] - Re_Smush_It_Task with attachment ID : 1245, autocreated on : November 22, 2023 05:33:46 
+[2023-11-22 17:40:37 : INFO] - File: Hair-color-free-img.jpg, Compression quality: 92 
+[2023-11-22 17:40:38 : INFO] - Backing up the original image - 2020/05/Hair-color-free-img-updraft-pre-smush-original.jpg 
+[2023-11-22 17:40:39 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:40:39 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/Hair-color-free-img.jpg.The file was compressed from 22.79 KB to 22.79 KB, saving 0 percent, using WP-Optimize 
+[2023-11-22 17:40:39 : INFO] - Completed processing task with ID : 29, and type 'smush' 
+[2023-11-22 17:40:39 : INFO] - Processing task with ID : 30, and type 'smush' 
+[2023-11-22 17:40:39 : INFO] - Re_Smush_It_Task with attachment ID : 1246, autocreated on : November 22, 2023 05:33:47 
+[2023-11-22 17:40:39 : INFO] - File: Makeup-doingmakeup-free-img.jpg, Compression quality: 92 
+[2023-11-22 17:40:43 : INFO] - Backing up the original image - 2020/05/Makeup-doingmakeup-free-img-updraft-pre-smush-original.jpg 
+[2023-11-22 17:40:44 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:40:44 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/Makeup-doingmakeup-free-img.jpg.The file was compressed from 14.35 KB to 14.35 KB, saving 0 percent, using WP-Optimize 
+[2023-11-22 17:40:44 : INFO] - Completed processing task with ID : 30, and type 'smush' 
+[2023-11-22 17:40:44 : INFO] - Processing task with ID : 31, and type 'smush' 
+[2023-11-22 17:40:44 : INFO] - Re_Smush_It_Task with attachment ID : 1247, autocreated on : November 22, 2023 05:33:47 
+[2023-11-22 17:40:44 : INFO] - File: Nail-paint-free-img.jpg, Compression quality: 92 
+[2023-11-22 17:40:45 : INFO] - Backing up the original image - 2020/05/Nail-paint-free-img-updraft-pre-smush-original.jpg 
+[2023-11-22 17:40:46 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:40:46 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/Nail-paint-free-img.jpg.The file was compressed from 9.12 KB to 9.12 KB, saving 0 percent, using WP-Optimize 
+[2023-11-22 17:40:46 : INFO] - Completed processing task with ID : 31, and type 'smush' 
+[2023-11-22 17:40:46 : INFO] - Processing task with ID : 32, and type 'smush' 
+[2023-11-22 17:40:46 : INFO] - Re_Smush_It_Task with attachment ID : 1248, autocreated on : November 22, 2023 05:33:48 
+[2023-11-22 17:40:46 : INFO] - File: Working-on-makeup-free-img.jpg, Compression quality: 92 
+[2023-11-22 17:40:47 : INFO] - Backing up the original image - 2020/05/Working-on-makeup-free-img-updraft-pre-smush-original.jpg 
+[2023-11-22 17:40:48 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:40:48 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/Working-on-makeup-free-img.jpg.The file was compressed from 15.29 KB to 15.29 KB, saving 0 percent, using WP-Optimize 
+[2023-11-22 17:40:48 : INFO] - Completed processing task with ID : 32, and type 'smush' 
+[2023-11-22 17:40:48 : INFO] - Processing task with ID : 33, and type 'smush' 
+[2023-11-22 17:40:48 : INFO] - Re_Smush_It_Task with attachment ID : 1249, autocreated on : November 22, 2023 05:33:49 
+[2023-11-22 17:40:48 : INFO] - File: Model-makeup-gallery-free-img.jpg, Compression quality: 92 
+[2023-11-22 17:40:50 : INFO] - Backing up the original image - 2020/05/Model-makeup-gallery-free-img-updraft-pre-smush-original.jpg 
+[2023-11-22 17:40:51 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:40:51 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/Model-makeup-gallery-free-img.jpg.The file was compressed from 15.45 KB to 15.45 KB, saving 0 percent, using WP-Optimize 
+[2023-11-22 17:40:51 : INFO] - Completed processing task with ID : 33, and type 'smush' 
+[2023-11-22 17:40:51 : INFO] - Processing task with ID : 34, and type 'smush' 
+[2023-11-22 17:40:51 : INFO] - Re_Smush_It_Task with attachment ID : 1250, autocreated on : November 22, 2023 05:33:50 
+[2023-11-22 17:40:51 : INFO] - File: before1.jpg, Compression quality: 92 
+[2023-11-22 17:40:52 : INFO] - Backing up the original image - 2020/05/before1-updraft-pre-smush-original.jpg 
+[2023-11-22 17:40:55 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:40:55 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/before1.jpg.The file was compressed from 60.49 KB to 60.49 KB, saving 0 percent, using WP-Optimize 
+[2023-11-22 17:40:55 : INFO] - Completed processing task with ID : 34, and type 'smush' 
+[2023-11-22 17:40:55 : INFO] - Processing task with ID : 35, and type 'smush' 
+[2023-11-22 17:40:55 : INFO] - Re_Smush_It_Task with attachment ID : 1251, autocreated on : November 22, 2023 05:33:50 
+[2023-11-22 17:40:55 : INFO] - File: after1.jpg, Compression quality: 92 
+[2023-11-22 17:40:58 : INFO] - Backing up the original image - 2020/05/after1-updraft-pre-smush-original.jpg 
+[2023-11-22 17:41:01 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:41:01 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/after1.jpg.The file was compressed from 63.59 KB to 63.59 KB, saving 0 percent, using WP-Optimize 
+[2023-11-22 17:41:01 : INFO] - Completed processing task with ID : 35, and type 'smush' 
+[2023-11-22 17:41:01 : INFO] - Processing task with ID : 36, and type 'smush' 
+[2023-11-22 17:41:01 : INFO] - Re_Smush_It_Task with attachment ID : 1252, autocreated on : November 22, 2023 05:33:51 
+[2023-11-22 17:41:01 : INFO] - File: before2.jpg, Compression quality: 92 
+[2023-11-22 17:41:02 : INFO] - Backing up the original image - 2020/05/before2-updraft-pre-smush-original.jpg 
+[2023-11-22 17:41:08 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:41:08 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/before2.jpg.The file was compressed from 26.85 KB to 26.85 KB, saving 0 percent, using WP-Optimize 
+[2023-11-22 17:41:08 : INFO] - Completed processing task with ID : 36, and type 'smush' 
+[2023-11-22 17:41:08 : INFO] - Processing task with ID : 37, and type 'smush' 
+[2023-11-22 17:41:08 : INFO] - Re_Smush_It_Task with attachment ID : 1253, autocreated on : November 22, 2023 05:33:52 
+[2023-11-22 17:41:08 : INFO] - File: after2.jpg, Compression quality: 92 
+[2023-11-22 17:41:09 : INFO] - Backing up the original image - 2020/05/after2-updraft-pre-smush-original.jpg 
+[2023-11-22 17:41:11 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:41:11 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/after2.jpg.The file was compressed from 36.33 KB to 36.33 KB, saving 0 percent, using WP-Optimize 
+[2023-11-22 17:41:11 : INFO] - Completed processing task with ID : 37, and type 'smush' 
+[2023-11-22 17:41:11 : INFO] - Processing task with ID : 38, and type 'smush' 
+[2023-11-22 17:41:11 : INFO] - Re_Smush_It_Task with attachment ID : 1260, autocreated on : November 22, 2023 05:33:53 
+[2023-11-22 17:41:11 : INFO] - File: logo.png, Compression quality: 92 
+[2023-11-22 17:41:15 : INFO] - Backing up the original image - 2020/05/logo-updraft-pre-smush-original.png 
+[2023-11-22 17:41:19 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:41:19 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/logo.png.The file was compressed from 20.46 KB to 8.92 KB, saving 56.42 percent, using WP-Optimize 
+[2023-11-22 17:41:19 : INFO] - Completed processing task with ID : 38, and type 'smush' 
+[2023-11-22 17:41:19 : INFO] - Processing task with ID : 39, and type 'smush' 
+[2023-11-22 17:41:19 : INFO] - Re_Smush_It_Task with attachment ID : 1261, autocreated on : November 22, 2023 05:33:54 
+[2023-11-22 17:41:19 : INFO] - File: logo@2x.png, Compression quality: 92 
+[2023-11-22 17:41:20 : INFO] - Backing up the original image - 2020/05/logo@2x-updraft-pre-smush-original.png 
+[2023-11-22 17:41:23 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:41:23 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/logo@2x.png.The file was compressed from 62.48 KB to 23.91 KB, saving 61.73 percent, using WP-Optimize 
+[2023-11-22 17:41:23 : INFO] - Completed processing task with ID : 39, and type 'smush' 
+[2023-11-22 17:41:23 : INFO] - Processing task with ID : 40, and type 'smush' 
+[2023-11-22 17:41:23 : INFO] - Re_Smush_It_Task with attachment ID : 1287, autocreated on : November 22, 2023 05:33:54 
+[2023-11-22 17:41:23 : INFO] - File: favicon.png, Compression quality: 92 
+[2023-11-22 17:41:24 : INFO] - Backing up the original image - 2020/05/favicon-updraft-pre-smush-original.png 
+[2023-11-22 17:41:24 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:41:24 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/favicon.png.The file was compressed from 5.84 KB to 4.37 KB, saving 25.23 percent, using WP-Optimize 
+[2023-11-22 17:41:24 : INFO] - Completed processing task with ID : 40, and type 'smush' 
+[2023-11-22 17:41:24 : INFO] - Processing task with ID : 41, and type 'smush' 
+[2023-11-22 17:41:24 : INFO] - Re_Smush_It_Task with attachment ID : 1322, autocreated on : November 22, 2023 05:33:55 
+[2023-11-22 17:41:24 : INFO] - File: bridal-makeup-img.jpg, Compression quality: 92 
+[2023-11-22 17:41:26 : INFO] - Backing up the original image - 2020/08/bridal-makeup-img-updraft-pre-smush-original.jpg 
+[2023-11-22 17:41:29 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:41:29 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/08/bridal-makeup-img.jpg.The file was compressed from 104.53 KB to 39.75 KB, saving 61.97 percent, using WP-Optimize 
+[2023-11-22 17:41:29 : INFO] - Completed processing task with ID : 41, and type 'smush' 
+[2023-11-22 17:41:29 : INFO] - Processing task with ID : 42, and type 'smush' 
+[2023-11-22 17:41:29 : INFO] - Re_Smush_It_Task with attachment ID : 1349, autocreated on : November 22, 2023 05:33:56 
+[2023-11-22 17:41:29 : INFO] - File: testimonial-img.jpg, Compression quality: 92 
+[2023-11-22 17:41:30 : INFO] - Backing up the original image - 2020/08/testimonial-img-updraft-pre-smush-original.jpg 
+[2023-11-22 17:41:32 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:41:32 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/08/testimonial-img.jpg.The file was compressed from 48.59 KB to 17.61 KB, saving 63.76 percent, using WP-Optimize 
+[2023-11-22 17:41:32 : INFO] - Completed processing task with ID : 42, and type 'smush' 
+[2023-11-22 17:41:32 : INFO] - Processing task with ID : 43, and type 'smush' 
+[2023-11-22 17:41:32 : INFO] - Re_Smush_It_Task with attachment ID : 1739, autocreated on : November 22, 2023 05:33:57 
+[2023-11-22 17:41:32 : INFO] - File: nailart.jpg, Compression quality: 92 
+[2023-11-22 17:41:34 : INFO] - Backing up the original image - 2022/09/nailart-updraft-pre-smush-original.jpg 
+[2023-11-22 17:41:36 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:41:36 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2022/09/nailart.jpg.The file was compressed from 49.86 KB to 49.71 KB, saving 0.28 percent, using WP-Optimize 
+[2023-11-22 17:41:36 : INFO] - Completed processing task with ID : 43, and type 'smush' 
+[2023-11-22 17:41:36 : INFO] - Processing task with ID : 44, and type 'smush' 
+[2023-11-22 17:41:36 : INFO] - Re_Smush_It_Task with attachment ID : 1745, autocreated on : November 22, 2023 05:33:58 
+[2023-11-22 17:41:36 : INFO] - File: haircut.jpg, Compression quality: 92 
+[2023-11-22 17:41:38 : INFO] - Backing up the original image - 2022/09/haircut-updraft-pre-smush-original.jpg 
+[2023-11-22 17:41:40 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:41:40 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2022/09/haircut.jpg.The file was compressed from 52.40 KB to 52.40 KB, saving 0 percent, using WP-Optimize 
+[2023-11-22 17:41:40 : INFO] - Completed processing task with ID : 44, and type 'smush' 
+[2023-11-22 17:41:40 : INFO] - Processing task with ID : 45, and type 'smush' 
+[2023-11-22 17:41:40 : INFO] - Re_Smush_It_Task with attachment ID : 1746, autocreated on : November 22, 2023 05:33:59 
+[2023-11-22 17:41:40 : INFO] - File: massage.jpg, Compression quality: 92 
+[2023-11-22 17:41:46 : INFO] - Backing up the original image - 2022/09/massage-updraft-pre-smush-original.jpg 
+[2023-11-22 17:41:48 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:41:48 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2022/09/massage.jpg.The file was compressed from 56.45 KB to 56.31 KB, saving 0.25 percent, using WP-Optimize 
+[2023-11-22 17:41:48 : INFO] - Completed processing task with ID : 45, and type 'smush' 
+[2023-11-22 17:41:48 : INFO] - Processing task with ID : 46, and type 'smush' 
+[2023-11-22 17:41:48 : INFO] - Re_Smush_It_Task with attachment ID : 1750, autocreated on : November 22, 2023 05:34:00 
+[2023-11-22 17:41:48 : INFO] - File: cosmetics.jpg, Compression quality: 92 
+[2023-11-22 17:41:50 : INFO] - Backing up the original image - 2022/09/cosmetics-updraft-pre-smush-original.jpg 
+[2023-11-22 17:41:52 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:41:52 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2022/09/cosmetics.jpg.The file was compressed from 56.73 KB to 56.63 KB, saving 0.17 percent, using WP-Optimize 
+[2023-11-22 17:41:52 : INFO] - Completed processing task with ID : 46, and type 'smush' 
+[2023-11-22 17:41:52 : INFO] - Processing task with ID : 47, and type 'smush' 
+[2023-11-22 17:41:52 : INFO] - Re_Smush_It_Task with attachment ID : 1751, autocreated on : November 22, 2023 05:34:01 
+[2023-11-22 17:41:52 : INFO] - File: spa.jpg, Compression quality: 92 
+[2023-11-22 17:41:54 : INFO] - Backing up the original image - 2022/09/spa-updraft-pre-smush-original.jpg 
+[2023-11-22 17:42:03 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:42:03 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2022/09/spa.jpg.The file was compressed from 55.19 KB to 55.19 KB, saving 0 percent, using WP-Optimize 
+[2023-11-22 17:42:03 : INFO] - Completed processing task with ID : 47, and type 'smush' 
+[2023-11-22 17:42:03 : INFO] - Processing task with ID : 48, and type 'smush' 
+[2023-11-22 17:42:03 : INFO] - Re_Smush_It_Task with attachment ID : 1752, autocreated on : November 22, 2023 05:34:01 
+[2023-11-22 17:42:03 : INFO] - File: botox.jpg, Compression quality: 92 
+[2023-11-22 17:42:07 : INFO] - Backing up the original image - 2022/09/botox-updraft-pre-smush-original.jpg 
+[2023-11-22 17:42:12 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:42:12 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2022/09/botox.jpg.The file was compressed from 38.51 KB to 38.51 KB, saving 0 percent, using WP-Optimize 
+[2023-11-22 17:42:12 : INFO] - Completed processing task with ID : 48, and type 'smush' 
+[2023-11-22 17:42:12 : INFO] - Processing task with ID : 49, and type 'smush' 
+[2023-11-22 17:42:12 : INFO] - Re_Smush_It_Task with attachment ID : 1837, autocreated on : November 22, 2023 05:34:02 
+[2023-11-22 17:42:12 : INFO] - File: demo-screenshot.jpg, Compression quality: 92 
+[2023-11-22 17:42:14 : INFO] - Backing up the original image - 2022/09/demo-screenshot-updraft-pre-smush-original.jpg 
+[2023-11-22 17:42:22 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:42:22 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2022/09/demo-screenshot.jpg.The file was compressed from 72.36 KB to 70.75 KB, saving 2.23 percent, using WP-Optimize 
+[2023-11-22 17:42:22 : INFO] - Completed processing task with ID : 49, and type 'smush' 
+[2023-11-22 17:42:22 : INFO] - Processing task with ID : 50, and type 'smush' 
+[2023-11-22 17:42:22 : INFO] - Re_Smush_It_Task with attachment ID : 1839, autocreated on : November 22, 2023 05:34:05 
+[2023-11-22 17:42:22 : INFO] - File: default.png, Compression quality: 92 
+[2023-11-22 17:42:23 : INFO] - Backing up the original image - 2023/11/default-updraft-pre-smush-original.png 
+[2023-11-22 17:42:23 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:42:23 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/11/default.png.The file was compressed from 168 bytes to 168 bytes, saving 0 percent, using WP-Optimize 
+[2023-11-22 17:42:23 : INFO] - Completed processing task with ID : 50, and type 'smush' 
+[2023-11-22 17:42:23 : INFO] - Processing task with ID : 51, and type 'smush' 
+[2023-11-22 17:42:23 : INFO] - Re_Smush_It_Task with attachment ID : 1841, autocreated on : November 22, 2023 05:34:05 
+[2023-11-22 17:42:23 : INFO] - File: home-model1-180x300-1.jpg, Compression quality: 92 
+[2023-11-22 17:42:26 : INFO] - Backing up the original image - 2023/11/home-model1-180x300-1-updraft-pre-smush-original.jpg 
+[2023-11-22 17:42:27 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:42:27 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/11/home-model1-180x300-1.jpg.The file was compressed from 17.59 KB to 16.51 KB, saving 6.15 percent, using WP-Optimize 
+[2023-11-22 17:42:27 : INFO] - Completed processing task with ID : 51, and type 'smush' 
+[2023-11-22 17:42:27 : INFO] - Processing task with ID : 52, and type 'smush' 
+[2023-11-22 17:42:27 : INFO] - Re_Smush_It_Task with attachment ID : 1842, autocreated on : November 22, 2023 05:34:06 
+[2023-11-22 17:42:27 : INFO] - File: home-model2-180x300-1.jpg, Compression quality: 92 
+[2023-11-22 17:42:28 : INFO] - Backing up the original image - 2023/11/home-model2-180x300-1-updraft-pre-smush-original.jpg 
+[2023-11-22 17:42:28 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:42:28 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/11/home-model2-180x300-1.jpg.The file was compressed from 11.10 KB to 10.67 KB, saving 3.93 percent, using WP-Optimize 
+[2023-11-22 17:42:28 : INFO] - Completed processing task with ID : 52, and type 'smush' 
+[2023-11-22 17:42:28 : INFO] - Processing task with ID : 53, and type 'smush' 
+[2023-11-22 17:42:28 : INFO] - Re_Smush_It_Task with attachment ID : 1843, autocreated on : November 22, 2023 05:34:06 
+[2023-11-22 17:42:28 : INFO] - File: home-model3-180x300-1.jpg, Compression quality: 92 
+[2023-11-22 17:42:31 : INFO] - Backing up the original image - 2023/11/home-model3-180x300-1-updraft-pre-smush-original.jpg 
+[2023-11-22 17:42:32 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:42:32 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/11/home-model3-180x300-1.jpg.The file was compressed from 11.17 KB to 10.67 KB, saving 4.52 percent, using WP-Optimize 
+[2023-11-22 17:42:32 : INFO] - Completed processing task with ID : 53, and type 'smush' 
+[2023-11-22 17:42:32 : INFO] - Processing task with ID : 54, and type 'smush' 
+[2023-11-22 17:42:32 : INFO] - Re_Smush_It_Task with attachment ID : 1844, autocreated on : November 22, 2023 05:34:07 
+[2023-11-22 17:42:32 : INFO] - File: bridal-makeup2-210x300-1.jpg, Compression quality: 92 
+[2023-11-22 17:42:33 : INFO] - Backing up the original image - 2023/11/bridal-makeup2-210x300-1-updraft-pre-smush-original.jpg 
+[2023-11-22 17:42:34 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:42:34 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/11/bridal-makeup2-210x300-1.jpg.The file was compressed from 11.79 KB to 11.32 KB, saving 4.05 percent, using WP-Optimize 
+[2023-11-22 17:42:34 : INFO] - Completed processing task with ID : 54, and type 'smush' 
+[2023-11-22 17:42:34 : INFO] - Processing task with ID : 55, and type 'smush' 
+[2023-11-22 17:42:34 : INFO] - Re_Smush_It_Task with attachment ID : 1847, autocreated on : November 22, 2023 05:34:08 
+[2023-11-22 17:42:34 : INFO] - File: nailart-190x300-1.jpg, Compression quality: 92 
+[2023-11-22 17:42:35 : INFO] - Backing up the original image - 2023/11/nailart-190x300-1-updraft-pre-smush-original.jpg 
+[2023-11-22 17:42:36 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:42:36 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/11/nailart-190x300-1.jpg.The file was compressed from 11.89 KB to 11.39 KB, saving 4.2 percent, using WP-Optimize 
+[2023-11-22 17:42:36 : INFO] - Completed processing task with ID : 55, and type 'smush' 
+[2023-11-22 17:42:36 : INFO] - Processing task with ID : 56, and type 'smush' 
+[2023-11-22 17:42:36 : INFO] - Re_Smush_It_Task with attachment ID : 1848, autocreated on : November 22, 2023 05:34:08 
+[2023-11-22 17:42:36 : INFO] - File: haircut-190x300-1.jpg, Compression quality: 92 
+[2023-11-22 17:42:37 : INFO] - Backing up the original image - 2023/11/haircut-190x300-1-updraft-pre-smush-original.jpg 
+[2023-11-22 17:42:38 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:42:38 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/11/haircut-190x300-1.jpg.The file was compressed from 11.72 KB to 11.27 KB, saving 3.83 percent, using WP-Optimize 
+[2023-11-22 17:42:38 : INFO] - Completed processing task with ID : 56, and type 'smush' 
+[2023-11-22 17:42:38 : INFO] - Processing task with ID : 57, and type 'smush' 
+[2023-11-22 17:42:38 : INFO] - Re_Smush_It_Task with attachment ID : 1849, autocreated on : November 22, 2023 05:34:09 
+[2023-11-22 17:42:38 : INFO] - File: massage-190x300-1.jpg, Compression quality: 92 
+[2023-11-22 17:42:39 : INFO] - Backing up the original image - 2023/11/massage-190x300-1-updraft-pre-smush-original.jpg 
+[2023-11-22 17:42:40 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:42:40 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/11/massage-190x300-1.jpg.The file was compressed from 13.28 KB to 12.69 KB, saving 4.4 percent, using WP-Optimize 
+[2023-11-22 17:42:40 : INFO] - Completed processing task with ID : 57, and type 'smush' 
+[2023-11-22 17:42:40 : INFO] - Processing task with ID : 58, and type 'smush' 
+[2023-11-22 17:42:40 : INFO] - Re_Smush_It_Task with attachment ID : 1850, autocreated on : November 22, 2023 05:34:10 
+[2023-11-22 17:42:40 : INFO] - File: cosmetics-190x300-1.jpg, Compression quality: 92 
+[2023-11-22 17:42:44 : INFO] - Backing up the original image - 2023/11/cosmetics-190x300-1-updraft-pre-smush-original.jpg 
+[2023-11-22 17:42:45 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:42:45 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/11/cosmetics-190x300-1.jpg.The file was compressed from 12.37 KB to 11.88 KB, saving 3.96 percent, using WP-Optimize 
+[2023-11-22 17:42:45 : INFO] - Completed processing task with ID : 58, and type 'smush' 
+[2023-11-22 17:42:45 : INFO] - Processing task with ID : 59, and type 'smush' 
+[2023-11-22 17:42:45 : INFO] - Re_Smush_It_Task with attachment ID : 1851, autocreated on : November 22, 2023 05:34:10 
+[2023-11-22 17:42:45 : INFO] - File: spa-190x300-1.jpg, Compression quality: 92 
+[2023-11-22 17:42:46 : INFO] - Backing up the original image - 2023/11/spa-190x300-1-updraft-pre-smush-original.jpg 
+[2023-11-22 17:42:47 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:42:47 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/11/spa-190x300-1.jpg.The file was compressed from 11.75 KB to 11.36 KB, saving 3.25 percent, using WP-Optimize 
+[2023-11-22 17:42:47 : INFO] - Completed processing task with ID : 59, and type 'smush' 
+[2023-11-22 17:42:47 : INFO] - Processing task with ID : 60, and type 'smush' 
+[2023-11-22 17:42:47 : INFO] - Re_Smush_It_Task with attachment ID : 1852, autocreated on : November 22, 2023 05:34:11 
+[2023-11-22 17:42:47 : INFO] - File: botox-190x300-1.jpg, Compression quality: 92 
+[2023-11-22 17:42:49 : INFO] - Backing up the original image - 2023/11/botox-190x300-1-updraft-pre-smush-original.jpg 
+[2023-11-22 17:42:54 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:42:54 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/11/botox-190x300-1.jpg.The file was compressed from 8.81 KB to 8.42 KB, saving 4.51 percent, using WP-Optimize 
+[2023-11-22 17:42:54 : INFO] - Completed processing task with ID : 60, and type 'smush' 
+[2023-11-22 17:42:54 : INFO] - Lock option (updraft_lock_smush, _clinicaoptions) released 
+[2023-11-22 17:42:54 : INFO] - Successfully processed the queue (smush). 59 tasks were processed out of 59. 
+[2023-11-22 17:42:54 : INFO] - Lock option (updraft_lock_smush, _clinicaoptions) was deleted from the database 
+[2023-11-22 17:42:54 : INFO] - Cleaning up tasks of type (smush). A total of 59 tasks will be deleted. 
+[2023-11-22 17:43:01 : INFO] - Re_Smush_It_Task with attachment ID : 1202, autocreated on : November 22, 2023 05:43:01 
+[2023-11-22 17:43:01 : INFO] - Re_Smush_It_Task with attachment ID : 1203, autocreated on : November 22, 2023 05:43:01 
+[2023-11-22 17:43:02 : INFO] - Re_Smush_It_Task with attachment ID : 1204, autocreated on : November 22, 2023 05:43:02 
+[2023-11-22 17:43:03 : INFO] - Re_Smush_It_Task with attachment ID : 1205, autocreated on : November 22, 2023 05:43:03 
+[2023-11-22 17:43:04 : INFO] - Re_Smush_It_Task with attachment ID : 1206, autocreated on : November 22, 2023 05:43:04 
+[2023-11-22 17:43:05 : INFO] - Re_Smush_It_Task with attachment ID : 1207, autocreated on : November 22, 2023 05:43:05 
+[2023-11-22 17:43:05 : INFO] - Re_Smush_It_Task with attachment ID : 1208, autocreated on : November 22, 2023 05:43:05 
+[2023-11-22 17:43:06 : INFO] - Re_Smush_It_Task with attachment ID : 1209, autocreated on : November 22, 2023 05:43:06 
+[2023-11-22 17:43:07 : INFO] - Re_Smush_It_Task with attachment ID : 1210, autocreated on : November 22, 2023 05:43:07 
+[2023-11-22 17:43:07 : INFO] - Re_Smush_It_Task with attachment ID : 1211, autocreated on : November 22, 2023 05:43:07 
+[2023-11-22 17:43:09 : INFO] - Re_Smush_It_Task with attachment ID : 1212, autocreated on : November 22, 2023 05:43:09 
+[2023-11-22 17:43:10 : INFO] - Re_Smush_It_Task with attachment ID : 1213, autocreated on : November 22, 2023 05:43:09 
+[2023-11-22 17:43:10 : INFO] - Re_Smush_It_Task with attachment ID : 1222, autocreated on : November 22, 2023 05:43:10 
+[2023-11-22 17:43:11 : INFO] - Re_Smush_It_Task with attachment ID : 1223, autocreated on : November 22, 2023 05:43:11 
+[2023-11-22 17:43:12 : INFO] - Re_Smush_It_Task with attachment ID : 1225, autocreated on : November 22, 2023 05:43:12 
+[2023-11-22 17:43:13 : INFO] - Re_Smush_It_Task with attachment ID : 1226, autocreated on : November 22, 2023 05:43:13 
+[2023-11-22 17:43:14 : INFO] - Re_Smush_It_Task with attachment ID : 1227, autocreated on : November 22, 2023 05:43:14 
+[2023-11-22 17:43:14 : INFO] - Re_Smush_It_Task with attachment ID : 1231, autocreated on : November 22, 2023 05:43:14 
+[2023-11-22 17:43:15 : INFO] - Re_Smush_It_Task with attachment ID : 1232, autocreated on : November 22, 2023 05:43:15 
+[2023-11-22 17:43:16 : INFO] - Re_Smush_It_Task with attachment ID : 1233, autocreated on : November 22, 2023 05:43:16 
+[2023-11-22 17:43:16 : INFO] - Re_Smush_It_Task with attachment ID : 1234, autocreated on : November 22, 2023 05:43:16 
+[2023-11-22 17:43:17 : INFO] - Re_Smush_It_Task with attachment ID : 1235, autocreated on : November 22, 2023 05:43:17 
+[2023-11-22 17:43:18 : INFO] - Re_Smush_It_Task with attachment ID : 1236, autocreated on : November 22, 2023 05:43:18 
+[2023-11-22 17:43:19 : INFO] - Re_Smush_It_Task with attachment ID : 1237, autocreated on : November 22, 2023 05:43:19 
+[2023-11-22 17:43:20 : INFO] - Re_Smush_It_Task with attachment ID : 1238, autocreated on : November 22, 2023 05:43:20 
+[2023-11-22 17:43:20 : INFO] - Re_Smush_It_Task with attachment ID : 1242, autocreated on : November 22, 2023 05:43:20 
+[2023-11-22 17:43:22 : INFO] - Re_Smush_It_Task with attachment ID : 1243, autocreated on : November 22, 2023 05:43:22 
+[2023-11-22 17:43:22 : INFO] - Re_Smush_It_Task with attachment ID : 1245, autocreated on : November 22, 2023 05:43:22 
+[2023-11-22 17:43:23 : INFO] - Re_Smush_It_Task with attachment ID : 1246, autocreated on : November 22, 2023 05:43:23 
+[2023-11-22 17:43:24 : INFO] - Re_Smush_It_Task with attachment ID : 1247, autocreated on : November 22, 2023 05:43:24 
+[2023-11-22 17:43:25 : INFO] - Re_Smush_It_Task with attachment ID : 1248, autocreated on : November 22, 2023 05:43:25 
+[2023-11-22 17:43:25 : INFO] - Re_Smush_It_Task with attachment ID : 1249, autocreated on : November 22, 2023 05:43:25 
+[2023-11-22 17:43:26 : INFO] - Re_Smush_It_Task with attachment ID : 1250, autocreated on : November 22, 2023 05:43:26 
+[2023-11-22 17:43:27 : INFO] - Re_Smush_It_Task with attachment ID : 1251, autocreated on : November 22, 2023 05:43:27 
+[2023-11-22 17:43:28 : INFO] - Re_Smush_It_Task with attachment ID : 1252, autocreated on : November 22, 2023 05:43:28 
+[2023-11-22 17:43:28 : INFO] - Re_Smush_It_Task with attachment ID : 1253, autocreated on : November 22, 2023 05:43:28 
+[2023-11-22 17:43:29 : INFO] - Re_Smush_It_Task with attachment ID : 1260, autocreated on : November 22, 2023 05:43:29 
+[2023-11-22 17:43:30 : INFO] - Re_Smush_It_Task with attachment ID : 1261, autocreated on : November 22, 2023 05:43:30 
+[2023-11-22 17:43:31 : INFO] - Re_Smush_It_Task with attachment ID : 1287, autocreated on : November 22, 2023 05:43:31 
+[2023-11-22 17:43:32 : INFO] - Re_Smush_It_Task with attachment ID : 1322, autocreated on : November 22, 2023 05:43:32 
+[2023-11-22 17:43:33 : INFO] - Re_Smush_It_Task with attachment ID : 1349, autocreated on : November 22, 2023 05:43:33 
+[2023-11-22 17:43:34 : INFO] - Re_Smush_It_Task with attachment ID : 1739, autocreated on : November 22, 2023 05:43:34 
+[2023-11-22 17:43:35 : INFO] - Re_Smush_It_Task with attachment ID : 1745, autocreated on : November 22, 2023 05:43:35 
+[2023-11-22 17:43:36 : INFO] - Re_Smush_It_Task with attachment ID : 1746, autocreated on : November 22, 2023 05:43:36 
+[2023-11-22 17:43:37 : INFO] - Re_Smush_It_Task with attachment ID : 1750, autocreated on : November 22, 2023 05:43:37 
+[2023-11-22 17:43:37 : INFO] - Re_Smush_It_Task with attachment ID : 1751, autocreated on : November 22, 2023 05:43:37 
+[2023-11-22 17:43:38 : INFO] - Re_Smush_It_Task with attachment ID : 1752, autocreated on : November 22, 2023 05:43:38 
+[2023-11-22 17:43:39 : INFO] - Re_Smush_It_Task with attachment ID : 1837, autocreated on : November 22, 2023 05:43:39 
+[2023-11-22 17:43:42 : INFO] - Re_Smush_It_Task with attachment ID : 1864, autocreated on : November 22, 2023 05:43:42 
+[2023-11-22 17:43:42 : INFO] - Re_Smush_It_Task with attachment ID : 1866, autocreated on : November 22, 2023 05:43:42 
+[2023-11-22 17:43:43 : INFO] - Re_Smush_It_Task with attachment ID : 1867, autocreated on : November 22, 2023 05:43:43 
+[2023-11-22 17:43:43 : INFO] - Re_Smush_It_Task with attachment ID : 1868, autocreated on : November 22, 2023 05:43:43 
+[2023-11-22 17:43:44 : INFO] - Re_Smush_It_Task with attachment ID : 1869, autocreated on : November 22, 2023 05:43:44 
+[2023-11-22 17:43:45 : INFO] - Re_Smush_It_Task with attachment ID : 1872, autocreated on : November 22, 2023 05:43:45 
+[2023-11-22 17:43:45 : INFO] - Re_Smush_It_Task with attachment ID : 1873, autocreated on : November 22, 2023 05:43:45 
+[2023-11-22 17:43:46 : INFO] - Re_Smush_It_Task with attachment ID : 1874, autocreated on : November 22, 2023 05:43:46 
+[2023-11-22 17:43:47 : INFO] - Re_Smush_It_Task with attachment ID : 1875, autocreated on : November 22, 2023 05:43:47 
+[2023-11-22 17:43:47 : INFO] - Re_Smush_It_Task with attachment ID : 1876, autocreated on : November 22, 2023 05:43:47 
+[2023-11-22 17:43:48 : INFO] - Re_Smush_It_Task with attachment ID : 1877, autocreated on : November 22, 2023 05:43:48 
+[2023-11-22 17:49:01 : INFO] - A total of 59 tasks of type smush found and will be processed in this iteration 
+[2023-11-22 17:49:01 : DEBUG] - Lock option (updraft_lock_smush, _clinicaoptions) was created in the database 
+[2023-11-22 17:49:01 : INFO] - Lock (updraft_lock_smush, _clinicaoptions) acquired after initialising the database 
+[2023-11-22 17:49:01 : INFO] - Processing task with ID : 61, and type 'smush' 
+[2023-11-22 17:49:01 : INFO] - Re_Smush_It_Task with attachment ID : 1202, autocreated on : November 22, 2023 05:43:01 
+[2023-11-22 17:49:01 : INFO] - File: home-banner.jpg, Compression quality: 92 
+[2023-11-22 17:49:04 : INFO] - Backing up the original image - 2020/05/home-banner-updraft-pre-smush-original.jpg 
+[2023-11-22 17:49:21 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:49:21 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/home-banner.jpg.The file was compressed from 125.91 KB to 124.29 KB, saving 1.29 percent, using WP-Optimize 
+[2023-11-22 17:49:21 : INFO] - Completed processing task with ID : 61, and type 'smush' 
+[2023-11-22 17:49:21 : INFO] - Processing task with ID : 62, and type 'smush' 
+[2023-11-22 17:49:21 : INFO] - Re_Smush_It_Task with attachment ID : 1203, autocreated on : November 22, 2023 05:43:01 
+[2023-11-22 17:49:21 : INFO] - File: home-model1.jpg, Compression quality: 92 
+[2023-11-22 17:49:22 : INFO] - Backing up the original image - 2020/05/home-model1-updraft-pre-smush-original.jpg 
+[2023-11-22 17:49:24 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:49:24 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/home-model1.jpg.The file was compressed from 26.98 KB to 26.84 KB, saving 0.54 percent, using WP-Optimize 
+[2023-11-22 17:49:24 : INFO] - Completed processing task with ID : 62, and type 'smush' 
+[2023-11-22 17:49:24 : INFO] - Processing task with ID : 63, and type 'smush' 
+[2023-11-22 17:49:24 : INFO] - Re_Smush_It_Task with attachment ID : 1204, autocreated on : November 22, 2023 05:43:02 
+[2023-11-22 17:49:24 : INFO] - File: home-model2.jpg, Compression quality: 92 
+[2023-11-22 17:49:27 : INFO] - Backing up the original image - 2020/05/home-model2-updraft-pre-smush-original.jpg 
+[2023-11-22 17:49:31 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:49:31 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/home-model2.jpg.The file was compressed from 15.92 KB to 15.92 KB, saving 0 percent, using WP-Optimize 
+[2023-11-22 17:49:31 : INFO] - Completed processing task with ID : 63, and type 'smush' 
+[2023-11-22 17:49:31 : INFO] - Processing task with ID : 64, and type 'smush' 
+[2023-11-22 17:49:31 : INFO] - Re_Smush_It_Task with attachment ID : 1205, autocreated on : November 22, 2023 05:43:03 
+[2023-11-22 17:49:31 : INFO] - File: home-model3.jpg, Compression quality: 92 
+[2023-11-22 17:49:32 : INFO] - Backing up the original image - 2020/05/home-model3-updraft-pre-smush-original.jpg 
+[2023-11-22 17:49:34 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:49:34 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/home-model3.jpg.The file was compressed from 17.00 KB to 17.00 KB, saving 0 percent, using WP-Optimize 
+[2023-11-22 17:49:34 : INFO] - Completed processing task with ID : 64, and type 'smush' 
+[2023-11-22 17:49:34 : INFO] - Processing task with ID : 65, and type 'smush' 
+[2023-11-22 17:49:34 : INFO] - Re_Smush_It_Task with attachment ID : 1206, autocreated on : November 22, 2023 05:43:04 
+[2023-11-22 17:49:34 : INFO] - File: bridal-makeup2.jpg, Compression quality: 92 
+[2023-11-22 17:49:36 : INFO] - Backing up the original image - 2020/05/bridal-makeup2-updraft-pre-smush-original.jpg 
+[2023-11-22 17:49:39 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:49:39 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/bridal-makeup2.jpg.The file was compressed from 80.33 KB to 80.33 KB, saving 0 percent, using WP-Optimize 
+[2023-11-22 17:49:39 : INFO] - Completed processing task with ID : 65, and type 'smush' 
+[2023-11-22 17:49:39 : INFO] - Processing task with ID : 66, and type 'smush' 
+[2023-11-22 17:49:39 : INFO] - Re_Smush_It_Task with attachment ID : 1207, autocreated on : November 22, 2023 05:43:05 
+[2023-11-22 17:49:39 : INFO] - File: Engagement-Ring-free-img.png, Compression quality: 92 
+[2023-11-22 17:49:43 : INFO] - Backing up the original image - 2020/05/Engagement-Ring-free-img-updraft-pre-smush-original.png 
+[2023-11-22 17:49:43 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:49:43 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/Engagement-Ring-free-img.png.The file was compressed from 2.08 KB to 1.43 KB, saving 31.3 percent, using WP-Optimize 
+[2023-11-22 17:49:43 : INFO] - Completed processing task with ID : 66, and type 'smush' 
+[2023-11-22 17:49:43 : INFO] - Processing task with ID : 67, and type 'smush' 
+[2023-11-22 17:49:43 : INFO] - Re_Smush_It_Task with attachment ID : 1208, autocreated on : November 22, 2023 05:43:05 
+[2023-11-22 17:49:43 : INFO] - File: Romantic-Music-free-img.png, Compression quality: 92 
+[2023-11-22 17:49:44 : INFO] - Backing up the original image - 2020/05/Romantic-Music-free-img-updraft-pre-smush-original.png 
+[2023-11-22 17:49:44 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:49:44 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/Romantic-Music-free-img.png.The file was compressed from 1.87 KB to 1.36 KB, saving 27.16 percent, using WP-Optimize 
+[2023-11-22 17:49:44 : INFO] - Completed processing task with ID : 67, and type 'smush' 
+[2023-11-22 17:49:44 : INFO] - Processing task with ID : 68, and type 'smush' 
+[2023-11-22 17:49:44 : INFO] - Re_Smush_It_Task with attachment ID : 1209, autocreated on : November 22, 2023 05:43:06 
+[2023-11-22 17:49:44 : INFO] - File: Lipstick-free-img.png, Compression quality: 92 
+[2023-11-22 17:49:45 : INFO] - Backing up the original image - 2020/05/Lipstick-free-img-updraft-pre-smush-original.png 
+[2023-11-22 17:49:45 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:49:45 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/Lipstick-free-img.png.The file was compressed from 1.55 KB to 1.20 KB, saving 22.71 percent, using WP-Optimize 
+[2023-11-22 17:49:45 : INFO] - Completed processing task with ID : 68, and type 'smush' 
+[2023-11-22 17:49:45 : INFO] - Processing task with ID : 69, and type 'smush' 
+[2023-11-22 17:49:45 : INFO] - Re_Smush_It_Task with attachment ID : 1210, autocreated on : November 22, 2023 05:43:07 
+[2023-11-22 17:49:45 : INFO] - File: Photo-Camera-free-img.png, Compression quality: 92 
+[2023-11-22 17:49:47 : INFO] - Backing up the original image - 2020/05/Photo-Camera-free-img-updraft-pre-smush-original.png 
+[2023-11-22 17:49:47 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:49:47 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/Photo-Camera-free-img.png.The file was compressed from 2.01 KB to 1.45 KB, saving 28.16 percent, using WP-Optimize 
+[2023-11-22 17:49:47 : INFO] - Completed processing task with ID : 69, and type 'smush' 
+[2023-11-22 17:49:47 : INFO] - Processing task with ID : 70, and type 'smush' 
+[2023-11-22 17:49:47 : INFO] - Re_Smush_It_Task with attachment ID : 1211, autocreated on : November 22, 2023 05:43:07 
+[2023-11-22 17:49:47 : INFO] - File: sale-badge.png, Compression quality: 92 
+[2023-11-22 17:49:48 : INFO] - Backing up the original image - 2020/05/sale-badge-updraft-pre-smush-original.png 
+[2023-11-22 17:49:50 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:49:50 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/sale-badge.png.The file was compressed from 29.37 KB to 14.98 KB, saving 49.01 percent, using WP-Optimize 
+[2023-11-22 17:49:50 : INFO] - Completed processing task with ID : 70, and type 'smush' 
+[2023-11-22 17:49:50 : INFO] - Processing task with ID : 71, and type 'smush' 
+[2023-11-22 17:49:50 : INFO] - Re_Smush_It_Task with attachment ID : 1212, autocreated on : November 22, 2023 05:43:09 
+[2023-11-22 17:49:50 : INFO] - File: GlitterBG-free-img.jpg, Compression quality: 92 
+[2023-11-22 17:49:52 : INFO] - Backing up the original image - 2020/05/GlitterBG-free-img-updraft-pre-smush-original.jpg 
+[2023-11-22 17:49:57 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:49:57 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/GlitterBG-free-img.jpg.The file was compressed from 121.64 KB to 121.64 KB, saving 0 percent, using WP-Optimize 
+[2023-11-22 17:49:57 : INFO] - Completed processing task with ID : 71, and type 'smush' 
+[2023-11-22 17:49:57 : INFO] - Processing task with ID : 72, and type 'smush' 
+[2023-11-22 17:49:57 : INFO] - Re_Smush_It_Task with attachment ID : 1213, autocreated on : November 22, 2023 05:43:09 
+[2023-11-22 17:49:57 : INFO] - File: pricing-bg.jpg, Compression quality: 92 
+[2023-11-22 17:49:59 : INFO] - Backing up the original image - 2020/05/pricing-bg-updraft-pre-smush-original.jpg 
+[2023-11-22 17:50:08 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:50:08 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/pricing-bg.jpg.The file was compressed from 104.24 KB to 103.13 KB, saving 1.06 percent, using WP-Optimize 
+[2023-11-22 17:50:08 : INFO] - Completed processing task with ID : 72, and type 'smush' 
+[2023-11-22 17:50:08 : INFO] - Processing task with ID : 73, and type 'smush' 
+[2023-11-22 17:50:08 : INFO] - Re_Smush_It_Task with attachment ID : 1222, autocreated on : November 22, 2023 05:43:10 
+[2023-11-22 17:50:08 : INFO] - File: make-up-kit.jpg, Compression quality: 92 
+[2023-11-22 17:50:13 : INFO] - Backing up the original image - 2020/05/make-up-kit-updraft-pre-smush-original.jpg 
+[2023-11-22 17:50:21 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:50:21 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/make-up-kit.jpg.The file was compressed from 151.72 KB to 150.17 KB, saving 1.02 percent, using WP-Optimize 
+[2023-11-22 17:50:21 : INFO] - Completed processing task with ID : 73, and type 'smush' 
+[2023-11-22 17:50:21 : INFO] - Processing task with ID : 74, and type 'smush' 
+[2023-11-22 17:50:21 : INFO] - Re_Smush_It_Task with attachment ID : 1223, autocreated on : November 22, 2023 05:43:11 
+[2023-11-22 17:50:21 : INFO] - File: profile-image.jpg, Compression quality: 92 
+[2023-11-22 17:50:23 : INFO] - Backing up the original image - 2020/05/profile-image-updraft-pre-smush-original.jpg 
+[2023-11-22 17:50:25 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:50:25 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/profile-image.jpg.The file was compressed from 75.37 KB to 74.39 KB, saving 1.3 percent, using WP-Optimize 
+[2023-11-22 17:50:25 : INFO] - Completed processing task with ID : 74, and type 'smush' 
+[2023-11-22 17:50:25 : INFO] - Processing task with ID : 75, and type 'smush' 
+[2023-11-22 17:50:25 : INFO] - Re_Smush_It_Task with attachment ID : 1225, autocreated on : November 22, 2023 05:43:12 
+[2023-11-22 17:50:25 : INFO] - File: artist1.jpg, Compression quality: 92 
+[2023-11-22 17:50:27 : INFO] - Backing up the original image - 2020/05/artist1-updraft-pre-smush-original.jpg 
+[2023-11-22 17:50:29 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:50:29 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/artist1.jpg.The file was compressed from 36.70 KB to 36.29 KB, saving 1.11 percent, using WP-Optimize 
+[2023-11-22 17:50:29 : INFO] - Completed processing task with ID : 75, and type 'smush' 
+[2023-11-22 17:50:29 : INFO] - Processing task with ID : 76, and type 'smush' 
+[2023-11-22 17:50:29 : INFO] - Re_Smush_It_Task with attachment ID : 1226, autocreated on : November 22, 2023 05:43:13 
+[2023-11-22 17:50:29 : INFO] - File: artist2.jpg, Compression quality: 92 
+[2023-11-22 17:50:33 : INFO] - Backing up the original image - 2020/05/artist2-updraft-pre-smush-original.jpg 
+[2023-11-22 17:50:36 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:50:36 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/artist2.jpg.The file was compressed from 21.68 KB to 21.51 KB, saving 0.81 percent, using WP-Optimize 
+[2023-11-22 17:50:36 : INFO] - Completed processing task with ID : 76, and type 'smush' 
+[2023-11-22 17:50:36 : INFO] - Processing task with ID : 77, and type 'smush' 
+[2023-11-22 17:50:36 : INFO] - Re_Smush_It_Task with attachment ID : 1227, autocreated on : November 22, 2023 05:43:14 
+[2023-11-22 17:50:36 : INFO] - File: artist3.jpg, Compression quality: 92 
+[2023-11-22 17:50:39 : INFO] - Backing up the original image - 2020/05/artist3-updraft-pre-smush-original.jpg 
+[2023-11-22 17:50:41 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:50:41 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/artist3.jpg.The file was compressed from 21.00 KB to 20.66 KB, saving 1.62 percent, using WP-Optimize 
+[2023-11-22 17:50:41 : INFO] - Completed processing task with ID : 77, and type 'smush' 
+[2023-11-22 17:50:41 : INFO] - Processing task with ID : 78, and type 'smush' 
+[2023-11-22 17:50:41 : INFO] - Re_Smush_It_Task with attachment ID : 1231, autocreated on : November 22, 2023 05:43:14 
+[2023-11-22 17:50:41 : INFO] - File: Nail-free-img.png, Compression quality: 92 
+[2023-11-22 17:50:45 : INFO] - Backing up the original image - 2020/05/Nail-free-img-updraft-pre-smush-original.png 
+[2023-11-22 17:50:45 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:50:45 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/Nail-free-img.png.The file was compressed from 2.15 KB to 1.48 KB, saving 31.06 percent, using WP-Optimize 
+[2023-11-22 17:50:45 : INFO] - Completed processing task with ID : 78, and type 'smush' 
+[2023-11-22 17:50:45 : INFO] - Processing task with ID : 79, and type 'smush' 
+[2023-11-22 17:50:45 : INFO] - Re_Smush_It_Task with attachment ID : 1232, autocreated on : November 22, 2023 05:43:15 
+[2023-11-22 17:50:45 : INFO] - File: Salon-free-img.png, Compression quality: 92 
+[2023-11-22 17:50:46 : INFO] - Backing up the original image - 2020/05/Salon-free-img-updraft-pre-smush-original.png 
+[2023-11-22 17:50:46 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:50:46 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/Salon-free-img.png.The file was compressed from 2.32 KB to 1.54 KB, saving 33.78 percent, using WP-Optimize 
+[2023-11-22 17:50:46 : INFO] - Completed processing task with ID : 79, and type 'smush' 
+[2023-11-22 17:50:46 : INFO] - Processing task with ID : 80, and type 'smush' 
+[2023-11-22 17:50:46 : INFO] - Re_Smush_It_Task with attachment ID : 1233, autocreated on : November 22, 2023 05:43:16 
+[2023-11-22 17:50:46 : INFO] - File: Relax-free-img.png, Compression quality: 92 
+[2023-11-22 17:50:47 : INFO] - Backing up the original image - 2020/05/Relax-free-img-updraft-pre-smush-original.png 
+[2023-11-22 17:50:47 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:50:47 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/Relax-free-img.png.The file was compressed from 2.06 KB to 1.44 KB, saving 30.27 percent, using WP-Optimize 
+[2023-11-22 17:50:47 : INFO] - Completed processing task with ID : 80, and type 'smush' 
+[2023-11-22 17:50:47 : INFO] - Processing task with ID : 81, and type 'smush' 
+[2023-11-22 17:50:47 : INFO] - Re_Smush_It_Task with attachment ID : 1234, autocreated on : November 22, 2023 05:43:16 
+[2023-11-22 17:50:47 : INFO] - File: Cosmetics-free-img.png, Compression quality: 92 
+[2023-11-22 17:50:49 : INFO] - Backing up the original image - 2020/05/Cosmetics-free-img-updraft-pre-smush-original.png 
+[2023-11-22 17:50:49 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:50:49 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/Cosmetics-free-img.png.The file was compressed from 2.37 KB to 1.64 KB, saving 30.77 percent, using WP-Optimize 
+[2023-11-22 17:50:49 : INFO] - Completed processing task with ID : 81, and type 'smush' 
+[2023-11-22 17:50:49 : INFO] - Processing task with ID : 82, and type 'smush' 
+[2023-11-22 17:50:49 : INFO] - Re_Smush_It_Task with attachment ID : 1235, autocreated on : November 22, 2023 05:43:17 
+[2023-11-22 17:50:49 : INFO] - File: Hot-stones-free-img.png, Compression quality: 92 
+[2023-11-22 17:50:50 : INFO] - Backing up the original image - 2020/05/Hot-stones-free-img-updraft-pre-smush-original.png 
+[2023-11-22 17:50:50 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:50:50 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/Hot-stones-free-img.png.The file was compressed from 2.04 KB to 1.43 KB, saving 30.23 percent, using WP-Optimize 
+[2023-11-22 17:50:50 : INFO] - Completed processing task with ID : 82, and type 'smush' 
+[2023-11-22 17:50:50 : INFO] - Processing task with ID : 83, and type 'smush' 
+[2023-11-22 17:50:50 : INFO] - Re_Smush_It_Task with attachment ID : 1236, autocreated on : November 22, 2023 05:43:18 
+[2023-11-22 17:50:50 : INFO] - File: Kiss-free-img.png, Compression quality: 92 
+[2023-11-22 17:50:51 : INFO] - Backing up the original image - 2020/05/Kiss-free-img-updraft-pre-smush-original.png 
+[2023-11-22 17:50:51 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:50:51 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/Kiss-free-img.png.The file was compressed from 1.77 KB to 1.32 KB, saving 25.59 percent, using WP-Optimize 
+[2023-11-22 17:50:51 : INFO] - Completed processing task with ID : 83, and type 'smush' 
+[2023-11-22 17:50:51 : INFO] - Processing task with ID : 84, and type 'smush' 
+[2023-11-22 17:50:51 : INFO] - Re_Smush_It_Task with attachment ID : 1237, autocreated on : November 22, 2023 05:43:19 
+[2023-11-22 17:50:51 : INFO] - File: bridal-makeup1.jpg, Compression quality: 92 
+[2023-11-22 17:50:52 : INFO] - Backing up the original image - 2020/05/bridal-makeup1-updraft-pre-smush-original.jpg 
+[2023-11-22 17:50:54 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:50:54 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/bridal-makeup1.jpg.The file was compressed from 73.92 KB to 73.92 KB, saving 0 percent, using WP-Optimize 
+[2023-11-22 17:50:54 : INFO] - Completed processing task with ID : 84, and type 'smush' 
+[2023-11-22 17:50:54 : INFO] - Processing task with ID : 85, and type 'smush' 
+[2023-11-22 17:50:54 : INFO] - Re_Smush_It_Task with attachment ID : 1238, autocreated on : November 22, 2023 05:43:20 
+[2023-11-22 17:50:54 : INFO] - File: bridal-makeup3.jpg, Compression quality: 92 
+[2023-11-22 17:50:57 : INFO] - Backing up the original image - 2020/05/bridal-makeup3-updraft-pre-smush-original.jpg 
+[2023-11-22 17:50:59 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:50:59 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/bridal-makeup3.jpg.The file was compressed from 110.33 KB to 109.27 KB, saving 0.96 percent, using WP-Optimize 
+[2023-11-22 17:50:59 : INFO] - Completed processing task with ID : 85, and type 'smush' 
+[2023-11-22 17:50:59 : INFO] - Processing task with ID : 86, and type 'smush' 
+[2023-11-22 17:50:59 : INFO] - Re_Smush_It_Task with attachment ID : 1242, autocreated on : November 22, 2023 05:43:20 
+[2023-11-22 17:50:59 : INFO] - File: Makeup-Girldoingmakeup-free-img.jpg, Compression quality: 92 
+[2023-11-22 17:51:00 : INFO] - Backing up the original image - 2020/05/Makeup-Girldoingmakeup-free-img-updraft-pre-smush-original.jpg 
+[2023-11-22 17:51:01 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:51:01 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/Makeup-Girldoingmakeup-free-img.jpg.The file was compressed from 10.56 KB to 10.56 KB, saving 0 percent, using WP-Optimize 
+[2023-11-22 17:51:01 : INFO] - Completed processing task with ID : 86, and type 'smush' 
+[2023-11-22 17:51:01 : INFO] - Processing task with ID : 87, and type 'smush' 
+[2023-11-22 17:51:01 : INFO] - Re_Smush_It_Task with attachment ID : 1243, autocreated on : November 22, 2023 05:43:22 
+[2023-11-22 17:51:01 : INFO] - File: Bride-gallery-free-img.jpg, Compression quality: 92 
+[2023-11-22 17:51:03 : INFO] - Backing up the original image - 2020/05/Bride-gallery-free-img-updraft-pre-smush-original.jpg 
+[2023-11-22 17:51:04 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:51:04 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/Bride-gallery-free-img.jpg.The file was compressed from 9.68 KB to 9.68 KB, saving 0 percent, using WP-Optimize 
+[2023-11-22 17:51:04 : INFO] - Completed processing task with ID : 87, and type 'smush' 
+[2023-11-22 17:51:04 : INFO] - Processing task with ID : 88, and type 'smush' 
+[2023-11-22 17:51:04 : INFO] - Re_Smush_It_Task with attachment ID : 1245, autocreated on : November 22, 2023 05:43:22 
+[2023-11-22 17:51:04 : INFO] - File: Hair-color-free-img.jpg, Compression quality: 92 
+[2023-11-22 17:51:06 : INFO] - Backing up the original image - 2020/05/Hair-color-free-img-updraft-pre-smush-original.jpg 
+[2023-11-22 17:51:11 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:51:11 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/Hair-color-free-img.jpg.The file was compressed from 22.79 KB to 22.79 KB, saving 0 percent, using WP-Optimize 
+[2023-11-22 17:51:11 : INFO] - Completed processing task with ID : 88, and type 'smush' 
+[2023-11-22 17:51:11 : INFO] - Processing task with ID : 89, and type 'smush' 
+[2023-11-22 17:51:11 : INFO] - Re_Smush_It_Task with attachment ID : 1246, autocreated on : November 22, 2023 05:43:23 
+[2023-11-22 17:51:11 : INFO] - File: Makeup-doingmakeup-free-img.jpg, Compression quality: 92 
+[2023-11-22 17:51:12 : INFO] - Backing up the original image - 2020/05/Makeup-doingmakeup-free-img-updraft-pre-smush-original.jpg 
+[2023-11-22 17:51:13 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:51:13 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/Makeup-doingmakeup-free-img.jpg.The file was compressed from 14.35 KB to 14.35 KB, saving 0 percent, using WP-Optimize 
+[2023-11-22 17:51:13 : INFO] - Completed processing task with ID : 89, and type 'smush' 
+[2023-11-22 17:51:13 : INFO] - Processing task with ID : 90, and type 'smush' 
+[2023-11-22 17:51:13 : INFO] - Re_Smush_It_Task with attachment ID : 1247, autocreated on : November 22, 2023 05:43:24 
+[2023-11-22 17:51:13 : INFO] - File: Nail-paint-free-img.jpg, Compression quality: 92 
+[2023-11-22 17:51:14 : INFO] - Backing up the original image - 2020/05/Nail-paint-free-img-updraft-pre-smush-original.jpg 
+[2023-11-22 17:51:15 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:51:15 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/Nail-paint-free-img.jpg.The file was compressed from 9.12 KB to 9.12 KB, saving 0 percent, using WP-Optimize 
+[2023-11-22 17:51:15 : INFO] - Completed processing task with ID : 90, and type 'smush' 
+[2023-11-22 17:51:15 : INFO] - Processing task with ID : 91, and type 'smush' 
+[2023-11-22 17:51:15 : INFO] - Re_Smush_It_Task with attachment ID : 1248, autocreated on : November 22, 2023 05:43:25 
+[2023-11-22 17:51:15 : INFO] - File: Working-on-makeup-free-img.jpg, Compression quality: 92 
+[2023-11-22 17:51:16 : INFO] - Backing up the original image - 2020/05/Working-on-makeup-free-img-updraft-pre-smush-original.jpg 
+[2023-11-22 17:51:17 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:51:17 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/Working-on-makeup-free-img.jpg.The file was compressed from 15.29 KB to 15.29 KB, saving 0 percent, using WP-Optimize 
+[2023-11-22 17:51:17 : INFO] - Completed processing task with ID : 91, and type 'smush' 
+[2023-11-22 17:51:17 : INFO] - Processing task with ID : 92, and type 'smush' 
+[2023-11-22 17:51:17 : INFO] - Re_Smush_It_Task with attachment ID : 1249, autocreated on : November 22, 2023 05:43:25 
+[2023-11-22 17:51:17 : INFO] - File: Model-makeup-gallery-free-img.jpg, Compression quality: 92 
+[2023-11-22 17:51:18 : INFO] - Backing up the original image - 2020/05/Model-makeup-gallery-free-img-updraft-pre-smush-original.jpg 
+[2023-11-22 17:51:19 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:51:19 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/Model-makeup-gallery-free-img.jpg.The file was compressed from 15.45 KB to 15.45 KB, saving 0 percent, using WP-Optimize 
+[2023-11-22 17:51:19 : INFO] - Completed processing task with ID : 92, and type 'smush' 
+[2023-11-22 17:51:19 : INFO] - Processing task with ID : 93, and type 'smush' 
+[2023-11-22 17:51:19 : INFO] - Re_Smush_It_Task with attachment ID : 1250, autocreated on : November 22, 2023 05:43:26 
+[2023-11-22 17:51:19 : INFO] - File: before1.jpg, Compression quality: 92 
+[2023-11-22 17:51:21 : INFO] - Backing up the original image - 2020/05/before1-updraft-pre-smush-original.jpg 
+[2023-11-22 17:51:24 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:51:24 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/before1.jpg.The file was compressed from 60.49 KB to 60.49 KB, saving 0 percent, using WP-Optimize 
+[2023-11-22 17:51:24 : INFO] - Completed processing task with ID : 93, and type 'smush' 
+[2023-11-22 17:51:24 : INFO] - Processing task with ID : 94, and type 'smush' 
+[2023-11-22 17:51:24 : INFO] - Re_Smush_It_Task with attachment ID : 1251, autocreated on : November 22, 2023 05:43:27 
+[2023-11-22 17:51:24 : INFO] - File: after1.jpg, Compression quality: 92 
+[2023-11-22 17:51:26 : INFO] - Backing up the original image - 2020/05/after1-updraft-pre-smush-original.jpg 
+[2023-11-22 17:51:28 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:51:28 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/after1.jpg.The file was compressed from 63.59 KB to 63.59 KB, saving 0 percent, using WP-Optimize 
+[2023-11-22 17:51:28 : INFO] - Completed processing task with ID : 94, and type 'smush' 
+[2023-11-22 17:51:28 : INFO] - Processing task with ID : 95, and type 'smush' 
+[2023-11-22 17:51:28 : INFO] - Re_Smush_It_Task with attachment ID : 1252, autocreated on : November 22, 2023 05:43:28 
+[2023-11-22 17:51:28 : INFO] - File: before2.jpg, Compression quality: 92 
+[2023-11-22 17:51:30 : INFO] - Backing up the original image - 2020/05/before2-updraft-pre-smush-original.jpg 
+[2023-11-22 17:51:33 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:51:33 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/before2.jpg.The file was compressed from 26.85 KB to 26.85 KB, saving 0 percent, using WP-Optimize 
+[2023-11-22 17:51:33 : INFO] - Completed processing task with ID : 95, and type 'smush' 
+[2023-11-22 17:51:33 : INFO] - Processing task with ID : 96, and type 'smush' 
+[2023-11-22 17:51:33 : INFO] - Re_Smush_It_Task with attachment ID : 1253, autocreated on : November 22, 2023 05:43:28 
+[2023-11-22 17:51:33 : INFO] - File: after2.jpg, Compression quality: 92 
+[2023-11-22 17:51:34 : INFO] - Backing up the original image - 2020/05/after2-updraft-pre-smush-original.jpg 
+[2023-11-22 17:51:37 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:51:37 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/after2.jpg.The file was compressed from 36.33 KB to 36.33 KB, saving 0 percent, using WP-Optimize 
+[2023-11-22 17:51:37 : INFO] - Completed processing task with ID : 96, and type 'smush' 
+[2023-11-22 17:51:37 : INFO] - Processing task with ID : 97, and type 'smush' 
+[2023-11-22 17:51:37 : INFO] - Re_Smush_It_Task with attachment ID : 1260, autocreated on : November 22, 2023 05:43:29 
+[2023-11-22 17:51:37 : INFO] - File: logo.png, Compression quality: 92 
+[2023-11-22 17:51:38 : INFO] - Backing up the original image - 2020/05/logo-updraft-pre-smush-original.png 
+[2023-11-22 17:51:40 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:51:40 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/logo.png.The file was compressed from 20.46 KB to 8.92 KB, saving 56.42 percent, using WP-Optimize 
+[2023-11-22 17:51:40 : INFO] - Completed processing task with ID : 97, and type 'smush' 
+[2023-11-22 17:51:41 : INFO] - Processing task with ID : 98, and type 'smush' 
+[2023-11-22 17:51:41 : INFO] - Re_Smush_It_Task with attachment ID : 1261, autocreated on : November 22, 2023 05:43:30 
+[2023-11-22 17:51:41 : INFO] - File: logo@2x.png, Compression quality: 92 
+[2023-11-22 17:51:43 : INFO] - Backing up the original image - 2020/05/logo@2x-updraft-pre-smush-original.png 
+[2023-11-22 17:51:47 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:51:47 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/logo@2x.png.The file was compressed from 62.48 KB to 23.91 KB, saving 61.73 percent, using WP-Optimize 
+[2023-11-22 17:51:47 : INFO] - Completed processing task with ID : 98, and type 'smush' 
+[2023-11-22 17:51:47 : INFO] - Processing task with ID : 99, and type 'smush' 
+[2023-11-22 17:51:47 : INFO] - Re_Smush_It_Task with attachment ID : 1287, autocreated on : November 22, 2023 05:43:31 
+[2023-11-22 17:51:47 : INFO] - File: favicon.png, Compression quality: 92 
+[2023-11-22 17:51:48 : INFO] - Backing up the original image - 2020/05/favicon-updraft-pre-smush-original.png 
+[2023-11-22 17:51:48 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:51:48 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/05/favicon.png.The file was compressed from 5.84 KB to 4.37 KB, saving 25.23 percent, using WP-Optimize 
+[2023-11-22 17:51:48 : INFO] - Completed processing task with ID : 99, and type 'smush' 
+[2023-11-22 17:51:48 : INFO] - Processing task with ID : 100, and type 'smush' 
+[2023-11-22 17:51:48 : INFO] - Re_Smush_It_Task with attachment ID : 1322, autocreated on : November 22, 2023 05:43:32 
+[2023-11-22 17:51:48 : INFO] - File: bridal-makeup-img.jpg, Compression quality: 92 
+[2023-11-22 17:51:50 : INFO] - Backing up the original image - 2020/08/bridal-makeup-img-updraft-pre-smush-original.jpg 
+[2023-11-22 17:51:52 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:51:52 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/08/bridal-makeup-img.jpg.The file was compressed from 104.53 KB to 39.75 KB, saving 61.97 percent, using WP-Optimize 
+[2023-11-22 17:51:52 : INFO] - Completed processing task with ID : 100, and type 'smush' 
+[2023-11-22 17:51:52 : INFO] - Processing task with ID : 101, and type 'smush' 
+[2023-11-22 17:51:52 : INFO] - Re_Smush_It_Task with attachment ID : 1349, autocreated on : November 22, 2023 05:43:33 
+[2023-11-22 17:51:52 : INFO] - File: testimonial-img.jpg, Compression quality: 92 
+[2023-11-22 17:51:53 : INFO] - Backing up the original image - 2020/08/testimonial-img-updraft-pre-smush-original.jpg 
+[2023-11-22 17:51:54 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:51:54 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2020/08/testimonial-img.jpg.The file was compressed from 48.59 KB to 17.61 KB, saving 63.76 percent, using WP-Optimize 
+[2023-11-22 17:51:54 : INFO] - Completed processing task with ID : 101, and type 'smush' 
+[2023-11-22 17:51:54 : INFO] - Processing task with ID : 102, and type 'smush' 
+[2023-11-22 17:51:54 : INFO] - Re_Smush_It_Task with attachment ID : 1739, autocreated on : November 22, 2023 05:43:34 
+[2023-11-22 17:51:54 : INFO] - File: nailart.jpg, Compression quality: 92 
+[2023-11-22 17:51:56 : INFO] - Backing up the original image - 2022/09/nailart-updraft-pre-smush-original.jpg 
+[2023-11-22 17:51:58 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:51:58 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2022/09/nailart.jpg.The file was compressed from 49.86 KB to 49.71 KB, saving 0.28 percent, using WP-Optimize 
+[2023-11-22 17:51:58 : INFO] - Completed processing task with ID : 102, and type 'smush' 
+[2023-11-22 17:51:58 : INFO] - Processing task with ID : 103, and type 'smush' 
+[2023-11-22 17:51:58 : INFO] - Re_Smush_It_Task with attachment ID : 1745, autocreated on : November 22, 2023 05:43:35 
+[2023-11-22 17:51:58 : INFO] - File: haircut.jpg, Compression quality: 92 
+[2023-11-22 17:52:00 : INFO] - Backing up the original image - 2022/09/haircut-updraft-pre-smush-original.jpg 
+[2023-11-22 17:52:02 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:52:02 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2022/09/haircut.jpg.The file was compressed from 52.40 KB to 52.40 KB, saving 0 percent, using WP-Optimize 
+[2023-11-22 17:52:02 : INFO] - Completed processing task with ID : 103, and type 'smush' 
+[2023-11-22 17:52:02 : INFO] - Processing task with ID : 104, and type 'smush' 
+[2023-11-22 17:52:02 : INFO] - Re_Smush_It_Task with attachment ID : 1746, autocreated on : November 22, 2023 05:43:36 
+[2023-11-22 17:52:02 : INFO] - File: massage.jpg, Compression quality: 92 
+[2023-11-22 17:52:04 : INFO] - Backing up the original image - 2022/09/massage-updraft-pre-smush-original.jpg 
+[2023-11-22 17:52:06 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:52:06 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2022/09/massage.jpg.The file was compressed from 56.45 KB to 56.31 KB, saving 0.25 percent, using WP-Optimize 
+[2023-11-22 17:52:06 : INFO] - Completed processing task with ID : 104, and type 'smush' 
+[2023-11-22 17:52:06 : INFO] - Processing task with ID : 105, and type 'smush' 
+[2023-11-22 17:52:06 : INFO] - Re_Smush_It_Task with attachment ID : 1750, autocreated on : November 22, 2023 05:43:37 
+[2023-11-22 17:52:06 : INFO] - File: cosmetics.jpg, Compression quality: 92 
+[2023-11-22 17:52:08 : INFO] - Backing up the original image - 2022/09/cosmetics-updraft-pre-smush-original.jpg 
+[2023-11-22 17:52:11 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:52:11 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2022/09/cosmetics.jpg.The file was compressed from 56.73 KB to 56.63 KB, saving 0.17 percent, using WP-Optimize 
+[2023-11-22 17:52:11 : INFO] - Completed processing task with ID : 105, and type 'smush' 
+[2023-11-22 17:52:11 : INFO] - Processing task with ID : 106, and type 'smush' 
+[2023-11-22 17:52:11 : INFO] - Re_Smush_It_Task with attachment ID : 1751, autocreated on : November 22, 2023 05:43:37 
+[2023-11-22 17:52:11 : INFO] - File: spa.jpg, Compression quality: 92 
+[2023-11-22 17:52:13 : INFO] - Backing up the original image - 2022/09/spa-updraft-pre-smush-original.jpg 
+[2023-11-22 17:52:17 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:52:17 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2022/09/spa.jpg.The file was compressed from 55.19 KB to 55.19 KB, saving 0 percent, using WP-Optimize 
+[2023-11-22 17:52:17 : INFO] - Completed processing task with ID : 106, and type 'smush' 
+[2023-11-22 17:52:17 : INFO] - Processing task with ID : 107, and type 'smush' 
+[2023-11-22 17:52:17 : INFO] - Re_Smush_It_Task with attachment ID : 1752, autocreated on : November 22, 2023 05:43:38 
+[2023-11-22 17:52:17 : INFO] - File: botox.jpg, Compression quality: 92 
+[2023-11-22 17:52:19 : INFO] - Backing up the original image - 2022/09/botox-updraft-pre-smush-original.jpg 
+[2023-11-22 17:52:21 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:52:21 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2022/09/botox.jpg.The file was compressed from 38.51 KB to 38.51 KB, saving 0 percent, using WP-Optimize 
+[2023-11-22 17:52:21 : INFO] - Completed processing task with ID : 107, and type 'smush' 
+[2023-11-22 17:52:21 : INFO] - Processing task with ID : 108, and type 'smush' 
+[2023-11-22 17:52:21 : INFO] - Re_Smush_It_Task with attachment ID : 1837, autocreated on : November 22, 2023 05:43:39 
+[2023-11-22 17:52:21 : INFO] - File: demo-screenshot.jpg, Compression quality: 92 
+[2023-11-22 17:52:24 : INFO] - Backing up the original image - 2022/09/demo-screenshot-updraft-pre-smush-original.jpg 
+[2023-11-22 17:52:29 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:52:29 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2022/09/demo-screenshot.jpg.The file was compressed from 72.36 KB to 70.75 KB, saving 2.23 percent, using WP-Optimize 
+[2023-11-22 17:52:29 : INFO] - Completed processing task with ID : 108, and type 'smush' 
+[2023-11-22 17:52:29 : INFO] - Processing task with ID : 109, and type 'smush' 
+[2023-11-22 17:52:29 : INFO] - Re_Smush_It_Task with attachment ID : 1864, autocreated on : November 22, 2023 05:43:42 
+[2023-11-22 17:52:29 : INFO] - File: default.png, Compression quality: 92 
+[2023-11-22 17:52:30 : INFO] - Backing up the original image - 2023/11/default-updraft-pre-smush-original.png 
+[2023-11-22 17:52:30 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:52:30 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/11/default.png.The file was compressed from 168 bytes to 168 bytes, saving 0 percent, using WP-Optimize 
+[2023-11-22 17:52:30 : INFO] - Completed processing task with ID : 109, and type 'smush' 
+[2023-11-22 17:52:30 : INFO] - Processing task with ID : 110, and type 'smush' 
+[2023-11-22 17:52:30 : INFO] - Re_Smush_It_Task with attachment ID : 1866, autocreated on : November 22, 2023 05:43:42 
+[2023-11-22 17:52:30 : INFO] - File: home-model1-180x300-1.jpg, Compression quality: 92 
+[2023-11-22 17:52:31 : INFO] - Backing up the original image - 2023/11/home-model1-180x300-1-updraft-pre-smush-original.jpg 
+[2023-11-22 17:52:33 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:52:33 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/11/home-model1-180x300-1.jpg.The file was compressed from 17.59 KB to 16.51 KB, saving 6.15 percent, using WP-Optimize 
+[2023-11-22 17:52:33 : INFO] - Completed processing task with ID : 110, and type 'smush' 
+[2023-11-22 17:52:33 : INFO] - Processing task with ID : 111, and type 'smush' 
+[2023-11-22 17:52:33 : INFO] - Re_Smush_It_Task with attachment ID : 1867, autocreated on : November 22, 2023 05:43:43 
+[2023-11-22 17:52:33 : INFO] - File: home-model2-180x300-1.jpg, Compression quality: 92 
+[2023-11-22 17:52:34 : INFO] - Backing up the original image - 2023/11/home-model2-180x300-1-updraft-pre-smush-original.jpg 
+[2023-11-22 17:52:35 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:52:35 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/11/home-model2-180x300-1.jpg.The file was compressed from 11.10 KB to 10.67 KB, saving 3.93 percent, using WP-Optimize 
+[2023-11-22 17:52:35 : INFO] - Completed processing task with ID : 111, and type 'smush' 
+[2023-11-22 17:52:35 : INFO] - Processing task with ID : 112, and type 'smush' 
+[2023-11-22 17:52:35 : INFO] - Re_Smush_It_Task with attachment ID : 1868, autocreated on : November 22, 2023 05:43:43 
+[2023-11-22 17:52:35 : INFO] - File: home-model3-180x300-1.jpg, Compression quality: 92 
+[2023-11-22 17:52:37 : INFO] - Backing up the original image - 2023/11/home-model3-180x300-1-updraft-pre-smush-original.jpg 
+[2023-11-22 17:52:38 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:52:38 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/11/home-model3-180x300-1.jpg.The file was compressed from 11.17 KB to 10.67 KB, saving 4.52 percent, using WP-Optimize 
+[2023-11-22 17:52:38 : INFO] - Completed processing task with ID : 112, and type 'smush' 
+[2023-11-22 17:52:38 : INFO] - Processing task with ID : 113, and type 'smush' 
+[2023-11-22 17:52:38 : INFO] - Re_Smush_It_Task with attachment ID : 1869, autocreated on : November 22, 2023 05:43:44 
+[2023-11-22 17:52:38 : INFO] - File: bridal-makeup2-210x300-1.jpg, Compression quality: 92 
+[2023-11-22 17:52:39 : INFO] - Backing up the original image - 2023/11/bridal-makeup2-210x300-1-updraft-pre-smush-original.jpg 
+[2023-11-22 17:52:41 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:52:41 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/11/bridal-makeup2-210x300-1.jpg.The file was compressed from 11.79 KB to 11.32 KB, saving 4.05 percent, using WP-Optimize 
+[2023-11-22 17:52:41 : INFO] - Completed processing task with ID : 113, and type 'smush' 
+[2023-11-22 17:52:41 : INFO] - Processing task with ID : 114, and type 'smush' 
+[2023-11-22 17:52:41 : INFO] - Re_Smush_It_Task with attachment ID : 1872, autocreated on : November 22, 2023 05:43:45 
+[2023-11-22 17:52:41 : INFO] - File: nailart-190x300-1.jpg, Compression quality: 92 
+[2023-11-22 17:52:43 : INFO] - Backing up the original image - 2023/11/nailart-190x300-1-updraft-pre-smush-original.jpg 
+[2023-11-22 17:52:46 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:52:46 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/11/nailart-190x300-1.jpg.The file was compressed from 11.89 KB to 11.39 KB, saving 4.2 percent, using WP-Optimize 
+[2023-11-22 17:52:46 : INFO] - Completed processing task with ID : 114, and type 'smush' 
+[2023-11-22 17:52:46 : INFO] - Processing task with ID : 115, and type 'smush' 
+[2023-11-22 17:52:46 : INFO] - Re_Smush_It_Task with attachment ID : 1873, autocreated on : November 22, 2023 05:43:45 
+[2023-11-22 17:52:46 : INFO] - File: haircut-190x300-1.jpg, Compression quality: 92 
+[2023-11-22 17:52:48 : INFO] - Backing up the original image - 2023/11/haircut-190x300-1-updraft-pre-smush-original.jpg 
+[2023-11-22 17:52:49 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:52:49 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/11/haircut-190x300-1.jpg.The file was compressed from 11.72 KB to 11.27 KB, saving 3.83 percent, using WP-Optimize 
+[2023-11-22 17:52:49 : INFO] - Completed processing task with ID : 115, and type 'smush' 
+[2023-11-22 17:52:49 : INFO] - Processing task with ID : 116, and type 'smush' 
+[2023-11-22 17:52:49 : INFO] - Re_Smush_It_Task with attachment ID : 1874, autocreated on : November 22, 2023 05:43:46 
+[2023-11-22 17:52:49 : INFO] - File: massage-190x300-1.jpg, Compression quality: 92 
+[2023-11-22 17:52:50 : INFO] - Backing up the original image - 2023/11/massage-190x300-1-updraft-pre-smush-original.jpg 
+[2023-11-22 17:52:50 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:52:50 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/11/massage-190x300-1.jpg.The file was compressed from 13.28 KB to 12.69 KB, saving 4.4 percent, using WP-Optimize 
+[2023-11-22 17:52:50 : INFO] - Completed processing task with ID : 116, and type 'smush' 
+[2023-11-22 17:52:50 : INFO] - Processing task with ID : 117, and type 'smush' 
+[2023-11-22 17:52:51 : INFO] - Re_Smush_It_Task with attachment ID : 1875, autocreated on : November 22, 2023 05:43:47 
+[2023-11-22 17:52:51 : INFO] - File: cosmetics-190x300-1.jpg, Compression quality: 92 
+[2023-11-22 17:52:51 : INFO] - Backing up the original image - 2023/11/cosmetics-190x300-1-updraft-pre-smush-original.jpg 
+[2023-11-22 17:52:52 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:52:52 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/11/cosmetics-190x300-1.jpg.The file was compressed from 12.37 KB to 11.88 KB, saving 3.96 percent, using WP-Optimize 
+[2023-11-22 17:52:52 : INFO] - Completed processing task with ID : 117, and type 'smush' 
+[2023-11-22 17:52:52 : INFO] - Processing task with ID : 118, and type 'smush' 
+[2023-11-22 17:52:52 : INFO] - Re_Smush_It_Task with attachment ID : 1876, autocreated on : November 22, 2023 05:43:47 
+[2023-11-22 17:52:52 : INFO] - File: spa-190x300-1.jpg, Compression quality: 92 
+[2023-11-22 17:52:53 : INFO] - Backing up the original image - 2023/11/spa-190x300-1-updraft-pre-smush-original.jpg 
+[2023-11-22 17:52:54 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:52:54 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/11/spa-190x300-1.jpg.The file was compressed from 11.75 KB to 11.36 KB, saving 3.25 percent, using WP-Optimize 
+[2023-11-22 17:52:54 : INFO] - Completed processing task with ID : 118, and type 'smush' 
+[2023-11-22 17:52:54 : INFO] - Processing task with ID : 119, and type 'smush' 
+[2023-11-22 17:52:54 : INFO] - Re_Smush_It_Task with attachment ID : 1877, autocreated on : November 22, 2023 05:43:48 
+[2023-11-22 17:52:54 : INFO] - File: botox-190x300-1.jpg, Compression quality: 92 
+[2023-11-22 17:52:56 : INFO] - Backing up the original image - 2023/11/botox-190x300-1-updraft-pre-smush-original.jpg 
+[2023-11-22 17:52:56 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 17:52:56 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/11/botox-190x300-1.jpg.The file was compressed from 8.81 KB to 8.42 KB, saving 4.51 percent, using WP-Optimize 
+[2023-11-22 17:52:56 : INFO] - Completed processing task with ID : 119, and type 'smush' 
+[2023-11-22 17:52:56 : INFO] - Lock option (updraft_lock_smush, _clinicaoptions) released 
+[2023-11-22 17:52:56 : INFO] - Successfully processed the queue (smush). 59 tasks were processed out of 59. 
+[2023-11-22 17:52:56 : INFO] - Lock option (updraft_lock_smush, _clinicaoptions) was deleted from the database 
+[2023-11-22 17:52:56 : INFO] - Cleaning up tasks of type (smush). A total of 59 tasks will be deleted. 
+[2023-11-22 18:23:20 : INFO] - Re_Smush_It_Task with attachment ID : 1890, autocreated on : November 22, 2023 06:23:20 
+[2023-11-22 18:30:13 : INFO] - Re_Smush_It_Task with attachment ID : 1892, autocreated on : November 22, 2023 06:30:13 
+[2023-11-22 18:35:32 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2023-11-22 18:35:32 : DEBUG] - Lock option (updraft_lock_smush, _clinicaoptions) was created in the database 
+[2023-11-22 18:35:32 : INFO] - Lock (updraft_lock_smush, _clinicaoptions) acquired after initialising the database 
+[2023-11-22 18:35:32 : INFO] - Processing task with ID : 120, and type 'smush' 
+[2023-11-22 18:35:32 : INFO] - Re_Smush_It_Task with attachment ID : 1890, autocreated on : November 22, 2023 06:23:20 
+[2023-11-22 18:35:32 : INFO] - File: logo.png, Compression quality: 92 
+[2023-11-22 18:35:33 : INFO] - Re_Smush_It_Task with attachment ID : 1893, autocreated on : November 22, 2023 06:35:33 
+[2023-11-22 18:35:34 : INFO] - Backing up the original image - 2023/11/logo-updraft-pre-smush-original.png 
+[2023-11-22 18:35:43 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 18:35:43 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/11/logo.png.The file was compressed from 81.87 KB to 41.86 KB, saving 48.88 percent, using WP-Optimize 
+[2023-11-22 18:35:43 : INFO] - Completed processing task with ID : 120, and type 'smush' 
+[2023-11-22 18:35:43 : INFO] - Processing task with ID : 121, and type 'smush' 
+[2023-11-22 18:35:43 : INFO] - Re_Smush_It_Task with attachment ID : 1892, autocreated on : November 22, 2023 06:30:13 
+[2023-11-22 18:35:43 : INFO] - File: matheus1.jpg, Compression quality: 92 
+[2023-11-22 18:35:44 : INFO] - Backing up the original image - 2023/11/matheus1-updraft-pre-smush-original.jpg 
+[2023-11-22 18:35:44 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 18:35:44 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/11/matheus1.jpg.The file was compressed from 3.77 KB to 3.77 KB, saving 0 percent, using WP-Optimize 
+[2023-11-22 18:35:44 : INFO] - Completed processing task with ID : 121, and type 'smush' 
+[2023-11-22 18:35:44 : INFO] - Lock option (updraft_lock_smush, _clinicaoptions) released 
+[2023-11-22 18:35:44 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2023-11-22 18:35:44 : INFO] - Lock option (updraft_lock_smush, _clinicaoptions) was deleted from the database 
+[2023-11-22 18:35:44 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2023-11-22 18:37:54 : INFO] - Re_Smush_It_Task with attachment ID : 1894, autocreated on : November 22, 2023 06:37:54 
+[2023-11-22 18:38:09 : INFO] - Re_Smush_It_Task with attachment ID : 1895, autocreated on : November 22, 2023 06:38:09 
+[2023-11-22 18:38:16 : INFO] - Re_Smush_It_Task with attachment ID : 1896, autocreated on : November 22, 2023 06:38:16 
+[2023-11-22 18:38:27 : INFO] - Re_Smush_It_Task with attachment ID : 1897, autocreated on : November 22, 2023 06:38:27 
+[2023-11-22 18:38:39 : INFO] - Re_Smush_It_Task with attachment ID : 1898, autocreated on : November 22, 2023 06:38:39 
+[2023-11-22 18:43:50 : INFO] - Re_Smush_It_Task with attachment ID : 1899, autocreated on : November 22, 2023 06:43:50 
+[2023-11-22 18:45:58 : INFO] - A total of 7 tasks of type smush found and will be processed in this iteration 
+[2023-11-22 18:45:58 : DEBUG] - Lock option (updraft_lock_smush, _clinicaoptions) was created in the database 
+[2023-11-22 18:45:58 : INFO] - Lock (updraft_lock_smush, _clinicaoptions) acquired after initialising the database 
+[2023-11-22 18:45:58 : INFO] - Processing task with ID : 122, and type 'smush' 
+[2023-11-22 18:45:58 : INFO] - Re_Smush_It_Task with attachment ID : 1893, autocreated on : November 22, 2023 06:35:33 
+[2023-11-22 18:45:58 : INFO] - File: paolaribeiro.jpg, Compression quality: 92 
+[2023-11-22 18:45:59 : INFO] - Backing up the original image - 2023/11/paolaribeiro-updraft-pre-smush-original.jpg 
+[2023-11-22 18:45:59 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 18:45:59 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/11/paolaribeiro.jpg.The file was compressed from 5.81 KB to 5.69 KB, saving 2.1 percent, using WP-Optimize 
+[2023-11-22 18:45:59 : INFO] - Completed processing task with ID : 122, and type 'smush' 
+[2023-11-22 18:45:59 : INFO] - Processing task with ID : 123, and type 'smush' 
+[2023-11-22 18:45:59 : INFO] - Re_Smush_It_Task with attachment ID : 1894, autocreated on : November 22, 2023 06:37:54 
+[2023-11-22 18:45:59 : INFO] - File: 403061124_718589236421302_1165812875695468596_n.jpg, Compression quality: 92 
+[2023-11-22 18:46:00 : INFO] - Backing up the original image - 2023/11/403061124_718589236421302_1165812875695468596_n-updraft-pre-smush-original.jpg 
+[2023-11-22 18:46:00 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 18:46:00 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/11/403061124_718589236421302_1165812875695468596_n.jpg.The file was compressed from 3.63 KB to 3.63 KB, saving 0 percent, using WP-Optimize 
+[2023-11-22 18:46:00 : INFO] - Completed processing task with ID : 123, and type 'smush' 
+[2023-11-22 18:46:00 : INFO] - Processing task with ID : 124, and type 'smush' 
+[2023-11-22 18:46:00 : INFO] - Re_Smush_It_Task with attachment ID : 1895, autocreated on : November 22, 2023 06:38:09 
+[2023-11-22 18:46:00 : INFO] - File: 402623586_230330546735259_6256878941986633762_n.jpg, Compression quality: 92 
+[2023-11-22 18:46:01 : INFO] - Backing up the original image - 2023/11/402623586_230330546735259_6256878941986633762_n-updraft-pre-smush-original.jpg 
+[2023-11-22 18:46:01 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 18:46:01 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/11/402623586_230330546735259_6256878941986633762_n.jpg.The file was compressed from 4.45 KB to 4.45 KB, saving 0 percent, using WP-Optimize 
+[2023-11-22 18:46:01 : INFO] - Completed processing task with ID : 124, and type 'smush' 
+[2023-11-22 18:46:01 : INFO] - Processing task with ID : 125, and type 'smush' 
+[2023-11-22 18:46:01 : INFO] - Re_Smush_It_Task with attachment ID : 1896, autocreated on : November 22, 2023 06:38:16 
+[2023-11-22 18:46:01 : INFO] - File: 402701067_315332454613200_3476587175319006291_n.jpg, Compression quality: 92 
+[2023-11-22 18:46:02 : INFO] - Backing up the original image - 2023/11/402701067_315332454613200_3476587175319006291_n-updraft-pre-smush-original.jpg 
+[2023-11-22 18:46:02 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 18:46:02 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/11/402701067_315332454613200_3476587175319006291_n.jpg.The file was compressed from 4.94 KB to 4.94 KB, saving 0 percent, using WP-Optimize 
+[2023-11-22 18:46:02 : INFO] - Completed processing task with ID : 125, and type 'smush' 
+[2023-11-22 18:46:02 : INFO] - Processing task with ID : 126, and type 'smush' 
+[2023-11-22 18:46:02 : INFO] - Re_Smush_It_Task with attachment ID : 1897, autocreated on : November 22, 2023 06:38:27 
+[2023-11-22 18:46:02 : INFO] - File: prof1.jpg, Compression quality: 92 
+[2023-11-22 18:46:03 : INFO] - Backing up the original image - 2023/11/prof1-updraft-pre-smush-original.jpg 
+[2023-11-22 18:46:03 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 18:46:03 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/11/prof1.jpg.The file was compressed from 5.11 KB to 5.11 KB, saving 0 percent, using WP-Optimize 
+[2023-11-22 18:46:03 : INFO] - Completed processing task with ID : 126, and type 'smush' 
+[2023-11-22 18:46:03 : INFO] - Processing task with ID : 127, and type 'smush' 
+[2023-11-22 18:46:03 : INFO] - Re_Smush_It_Task with attachment ID : 1898, autocreated on : November 22, 2023 06:38:39 
+[2023-11-22 18:46:03 : INFO] - File: 402373447_1079629530140413_2739761853315257148_n.jpg, Compression quality: 92 
+[2023-11-22 18:46:05 : INFO] - Backing up the original image - 2023/11/402373447_1079629530140413_2739761853315257148_n-updraft-pre-smush-original.jpg 
+[2023-11-22 18:46:05 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 18:46:05 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/11/402373447_1079629530140413_2739761853315257148_n.jpg.The file was compressed from 4.45 KB to 4.45 KB, saving 0 percent, using WP-Optimize 
+[2023-11-22 18:46:05 : INFO] - Completed processing task with ID : 127, and type 'smush' 
+[2023-11-22 18:46:05 : INFO] - Processing task with ID : 128, and type 'smush' 
+[2023-11-22 18:46:05 : INFO] - Re_Smush_It_Task with attachment ID : 1899, autocreated on : November 22, 2023 06:43:50 
+[2023-11-22 18:46:05 : INFO] - File: MATHEUS.jpg, Compression quality: 92 
+[2023-11-22 18:46:06 : INFO] - Backing up the original image - 2023/11/MATHEUS-updraft-pre-smush-original.jpg 
+[2023-11-22 18:46:08 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 18:46:08 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/11/MATHEUS.jpg.The file was compressed from 10.97 KB to 10.97 KB, saving 0 percent, using WP-Optimize 
+[2023-11-22 18:46:08 : INFO] - Completed processing task with ID : 128, and type 'smush' 
+[2023-11-22 18:46:08 : INFO] - Lock option (updraft_lock_smush, _clinicaoptions) released 
+[2023-11-22 18:46:08 : INFO] - Successfully processed the queue (smush). 7 tasks were processed out of 7. 
+[2023-11-22 18:46:08 : INFO] - Lock option (updraft_lock_smush, _clinicaoptions) was deleted from the database 
+[2023-11-22 18:46:08 : INFO] - Cleaning up tasks of type (smush). A total of 7 tasks will be deleted. 
+[2023-11-22 18:50:53 : INFO] - Re_Smush_It_Task with attachment ID : 1900, autocreated on : November 22, 2023 06:50:53 
+[2023-11-22 18:53:07 : INFO] - Re_Smush_It_Task with attachment ID : 1901, autocreated on : November 22, 2023 06:53:07 
+[2023-11-22 18:53:07 : INFO] - Re_Smush_It_Task with attachment ID : 1902, autocreated on : November 22, 2023 06:53:07 
+[2023-11-22 18:53:08 : INFO] - Re_Smush_It_Task with attachment ID : 1903, autocreated on : November 22, 2023 06:53:08 
+[2023-11-22 18:53:08 : INFO] - Re_Smush_It_Task with attachment ID : 1904, autocreated on : November 22, 2023 06:53:08 
+[2023-11-22 18:57:21 : INFO] - A total of 5 tasks of type smush found and will be processed in this iteration 
+[2023-11-22 18:57:21 : DEBUG] - Lock option (updraft_lock_smush, _clinicaoptions) was created in the database 
+[2023-11-22 18:57:21 : INFO] - Lock (updraft_lock_smush, _clinicaoptions) acquired after initialising the database 
+[2023-11-22 18:57:21 : INFO] - Processing task with ID : 129, and type 'smush' 
+[2023-11-22 18:57:21 : INFO] - Re_Smush_It_Task with attachment ID : 1900, autocreated on : November 22, 2023 06:50:53 
+[2023-11-22 18:57:21 : INFO] - File: 399714977_17922409877804127_8641993089532636962_n.jpg, Compression quality: 92 
+[2023-11-22 18:57:23 : INFO] - Backing up the original image - 2023/11/399714977_17922409877804127_8641993089532636962_n-updraft-pre-smush-original.jpg 
+[2023-11-22 18:57:25 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 18:57:25 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/11/399714977_17922409877804127_8641993089532636962_n.jpg.The file was compressed from 75.35 KB to 73.35 KB, saving 2.65 percent, using WP-Optimize 
+[2023-11-22 18:57:25 : INFO] - Completed processing task with ID : 129, and type 'smush' 
+[2023-11-22 18:57:25 : INFO] - Processing task with ID : 130, and type 'smush' 
+[2023-11-22 18:57:25 : INFO] - Re_Smush_It_Task with attachment ID : 1901, autocreated on : November 22, 2023 06:53:07 
+[2023-11-22 18:57:25 : INFO] - File: 335977889_496559652510687_5522453533134720028_n.jpg, Compression quality: 92 
+[2023-11-22 18:57:26 : INFO] - Backing up the original image - 2023/11/335977889_496559652510687_5522453533134720028_n-updraft-pre-smush-original.jpg 
+[2023-11-22 18:57:29 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 18:57:29 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/11/335977889_496559652510687_5522453533134720028_n.jpg.The file was compressed from 13.95 KB to 13.95 KB, saving 0 percent, using WP-Optimize 
+[2023-11-22 18:57:29 : INFO] - Completed processing task with ID : 130, and type 'smush' 
+[2023-11-22 18:57:29 : INFO] - Processing task with ID : 131, and type 'smush' 
+[2023-11-22 18:57:29 : INFO] - Re_Smush_It_Task with attachment ID : 1902, autocreated on : November 22, 2023 06:53:07 
+[2023-11-22 18:57:29 : INFO] - File: 402914225_3464101220569231_2263296373070763468_n.jpg, Compression quality: 92 
+[2023-11-22 18:57:30 : INFO] - Re_Smush_It_Task with attachment ID : 1905, autocreated on : November 22, 2023 06:57:30 
+[2023-11-22 18:57:32 : INFO] - Backing up the original image - 2023/11/402914225_3464101220569231_2263296373070763468_n-updraft-pre-smush-original.jpg 
+[2023-11-22 18:57:38 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 18:57:38 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/11/402914225_3464101220569231_2263296373070763468_n.jpg.The file was compressed from 160.33 KB to 156.69 KB, saving 2.27 percent, using WP-Optimize 
+[2023-11-22 18:57:38 : INFO] - Completed processing task with ID : 131, and type 'smush' 
+[2023-11-22 18:57:38 : INFO] - Processing task with ID : 132, and type 'smush' 
+[2023-11-22 18:57:38 : INFO] - Task with ID 132 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2023-11-22 18:57:38 : INFO] - Processing task with ID : 133, and type 'smush' 
+[2023-11-22 18:57:38 : INFO] - Task with ID 133 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2023-11-22 18:57:38 : INFO] - Lock option (updraft_lock_smush, _clinicaoptions) released 
+[2023-11-22 18:57:38 : INFO] - Successfully processed the queue (smush). 5 tasks were processed out of 5. 
+[2023-11-22 18:57:38 : INFO] - Lock option (updraft_lock_smush, _clinicaoptions) was deleted from the database 
+[2023-11-22 18:57:38 : INFO] - Cleaning up tasks of type (smush). A total of 3 tasks will be deleted. 
+[2023-11-22 19:00:31 : INFO] - Re_Smush_It_Task with attachment ID : 1908, autocreated on : November 22, 2023 07:00:31 
+[2023-11-22 19:05:18 : INFO] - Re_Smush_It_Task with attachment ID : 1909, autocreated on : November 22, 2023 07:05:18 
+[2023-11-22 19:07:56 : INFO] - A total of 3 tasks of type smush found and will be processed in this iteration 
+[2023-11-22 19:07:56 : DEBUG] - Lock option (updraft_lock_smush, _clinicaoptions) was created in the database 
+[2023-11-22 19:07:56 : INFO] - Lock (updraft_lock_smush, _clinicaoptions) acquired after initialising the database 
+[2023-11-22 19:07:56 : INFO] - Processing task with ID : 134, and type 'smush' 
+[2023-11-22 19:07:56 : INFO] - Re_Smush_It_Task with attachment ID : 1905, autocreated on : November 22, 2023 06:57:30 
+[2023-11-22 19:07:56 : INFO] - File: pablo.jpg, Compression quality: 92 
+[2023-11-22 19:07:57 : INFO] - Backing up the original image - 2023/11/pablo-updraft-pre-smush-original.jpg 
+[2023-11-22 19:07:59 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 19:07:59 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/11/pablo.jpg.The file was compressed from 29.26 KB to 29.06 KB, saving 0.67 percent, using WP-Optimize 
+[2023-11-22 19:07:59 : INFO] - Completed processing task with ID : 134, and type 'smush' 
+[2023-11-22 19:07:59 : INFO] - Processing task with ID : 135, and type 'smush' 
+[2023-11-22 19:07:59 : INFO] - Re_Smush_It_Task with attachment ID : 1908, autocreated on : November 22, 2023 07:00:31 
+[2023-11-22 19:07:59 : INFO] - File: paolaribeiro-1.jpg, Compression quality: 92 
+[2023-11-22 19:08:00 : INFO] - Backing up the original image - 2023/11/paolaribeiro-1-updraft-pre-smush-original.jpg 
+[2023-11-22 19:08:00 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 19:08:00 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/11/paolaribeiro-1.jpg.The file was compressed from 5.81 KB to 5.69 KB, saving 2.1 percent, using WP-Optimize 
+[2023-11-22 19:08:00 : INFO] - Completed processing task with ID : 135, and type 'smush' 
+[2023-11-22 19:08:00 : INFO] - Processing task with ID : 136, and type 'smush' 
+[2023-11-22 19:08:00 : INFO] - Re_Smush_It_Task with attachment ID : 1909, autocreated on : November 22, 2023 07:05:18 
+[2023-11-22 19:08:00 : INFO] - File: 313518379_665232985169762_336256742178833262_n.jpg, Compression quality: 92 
+[2023-11-22 19:08:01 : INFO] - Backing up the original image - 2023/11/313518379_665232985169762_336256742178833262_n-updraft-pre-smush-original.jpg 
+[2023-11-22 19:08:04 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-22 19:08:04 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/11/313518379_665232985169762_336256742178833262_n.jpg.The file was compressed from 40.77 KB to 39.91 KB, saving 2.11 percent, using WP-Optimize 
+[2023-11-22 19:08:04 : INFO] - Completed processing task with ID : 136, and type 'smush' 
+[2023-11-22 19:08:04 : INFO] - Lock option (updraft_lock_smush, _clinicaoptions) released 
+[2023-11-22 19:08:04 : INFO] - Successfully processed the queue (smush). 3 tasks were processed out of 3. 
+[2023-11-22 19:08:04 : INFO] - Lock option (updraft_lock_smush, _clinicaoptions) was deleted from the database 
+[2023-11-22 19:08:04 : INFO] - Cleaning up tasks of type (smush). A total of 3 tasks will be deleted. 
+[2023-11-23 13:18:12 : INFO] - Re_Smush_It_Task with attachment ID : 1918, autocreated on : November 23, 2023 01:18:12 
+[2023-11-23 13:23:19 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2023-11-23 13:23:19 : DEBUG] - Lock option (updraft_lock_smush, _clinicaoptions) was created in the database 
+[2023-11-23 13:23:19 : INFO] - Lock (updraft_lock_smush, _clinicaoptions) acquired after initialising the database 
+[2023-11-23 13:23:19 : INFO] - Processing task with ID : 137, and type 'smush' 
+[2023-11-23 13:23:19 : INFO] - Re_Smush_It_Task with attachment ID : 1918, autocreated on : November 23, 2023 01:18:12 
+[2023-11-23 13:23:19 : INFO] - File: MATHEUS.jpg, Compression quality: 92 
+[2023-11-23 13:23:20 : INFO] - Backing up the original image - 2023/11/MATHEUS-updraft-pre-smush-original.jpg 
+[2023-11-23 13:23:22 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-23 13:23:22 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/11/MATHEUS.jpg.The file was compressed from 10.97 KB to 10.97 KB, saving 0 percent, using WP-Optimize 
+[2023-11-23 13:23:22 : INFO] - Completed processing task with ID : 137, and type 'smush' 
+[2023-11-23 13:23:22 : INFO] - Lock option (updraft_lock_smush, _clinicaoptions) released 
+[2023-11-23 13:23:22 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2023-11-23 13:23:22 : INFO] - Lock option (updraft_lock_smush, _clinicaoptions) was deleted from the database 
+[2023-11-23 13:23:22 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2023-11-29 13:50:58 : INFO] - Re_Smush_It_Task with attachment ID : 1932, autocreated on : November 29, 2023 01:50:58 
+[2023-11-29 13:56:31 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2023-11-29 13:56:31 : DEBUG] - Lock option (updraft_lock_smush, _clinicaoptions) was created in the database 
+[2023-11-29 13:56:31 : INFO] - Lock (updraft_lock_smush, _clinicaoptions) acquired after initialising the database 
+[2023-11-29 13:56:31 : INFO] - Processing task with ID : 138, and type 'smush' 
+[2023-11-29 13:56:31 : INFO] - Re_Smush_It_Task with attachment ID : 1932, autocreated on : November 29, 2023 01:50:58 
+[2023-11-29 13:56:31 : INFO] - File: vecteezy_beautiful-perfect-skin-gorgeous-young-woman-portrait-in-studio_5086947-scaled.jpg, Compression quality: 92 
+[2023-11-29 13:56:34 : INFO] - Backing up the original image - 2023/11/vecteezy_beautiful-perfect-skin-gorgeous-young-woman-portrait-in-studio_5086947-scaled-updraft-pre-smush-original.jpg 
+[2023-11-29 13:56:45 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-29 13:56:45 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/11/vecteezy_beautiful-perfect-skin-gorgeous-young-woman-portrait-in-studio_5086947-scaled.jpg.The file was compressed from 263.35 KB to 228.64 KB, saving 13.18 percent, using WP-Optimize 
+[2023-11-29 13:56:45 : INFO] - Completed processing task with ID : 138, and type 'smush' 
+[2023-11-29 13:56:45 : INFO] - Lock option (updraft_lock_smush, _clinicaoptions) released 
+[2023-11-29 13:56:45 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2023-11-29 13:56:45 : INFO] - Lock option (updraft_lock_smush, _clinicaoptions) was deleted from the database 
+[2023-11-29 13:56:45 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2023-11-29 14:13:23 : INFO] - Re_Smush_It_Task with attachment ID : 1948, autocreated on : November 29, 2023 02:13:23 
+[2023-11-29 14:13:31 : INFO] - Re_Smush_It_Task with attachment ID : 1949, autocreated on : November 29, 2023 02:13:31 
+[2023-11-29 14:14:39 : INFO] - Re_Smush_It_Task with attachment ID : 1950, autocreated on : November 29, 2023 02:14:39 
+[2023-11-29 14:14:39 : INFO] - Re_Smush_It_Task with attachment ID : 1951, autocreated on : November 29, 2023 02:14:39 
+[2023-11-29 14:14:40 : INFO] - Re_Smush_It_Task with attachment ID : 1952, autocreated on : November 29, 2023 02:14:40 
+[2023-11-29 14:14:40 : INFO] - Re_Smush_It_Task with attachment ID : 1953, autocreated on : November 29, 2023 02:14:40 
+[2023-11-29 14:18:45 : INFO] - A total of 6 tasks of type smush found and will be processed in this iteration 
+[2023-11-29 14:18:45 : DEBUG] - Lock option (updraft_lock_smush, _clinicaoptions) was created in the database 
+[2023-11-29 14:18:45 : INFO] - Lock (updraft_lock_smush, _clinicaoptions) acquired after initialising the database 
+[2023-11-29 14:18:45 : INFO] - Processing task with ID : 139, and type 'smush' 
+[2023-11-29 14:18:45 : INFO] - Re_Smush_It_Task with attachment ID : 1948, autocreated on : November 29, 2023 02:13:23 
+[2023-11-29 14:18:45 : INFO] - File: hairstylist_3290621.png, Compression quality: 92 
+[2023-11-29 14:18:46 : INFO] - Backing up the original image - 2023/11/hairstylist_3290621-updraft-pre-smush-original.png 
+[2023-11-29 14:18:46 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-29 14:18:46 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/11/hairstylist_3290621.png.The file was compressed from 1.59 KB to 1.59 KB, saving 0 percent, using WP-Optimize 
+[2023-11-29 14:18:46 : INFO] - Completed processing task with ID : 139, and type 'smush' 
+[2023-11-29 14:18:46 : INFO] - Processing task with ID : 140, and type 'smush' 
+[2023-11-29 14:18:46 : INFO] - Re_Smush_It_Task with attachment ID : 1949, autocreated on : November 29, 2023 02:13:31 
+[2023-11-29 14:18:46 : INFO] - File: hair-dryer_3383298.png, Compression quality: 92 
+[2023-11-29 14:18:47 : INFO] - Backing up the original image - 2023/11/hair-dryer_3383298-updraft-pre-smush-original.png 
+[2023-11-29 14:18:47 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-29 14:18:47 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/11/hair-dryer_3383298.png.The file was compressed from 1.04 KB to 1.04 KB, saving 0 percent, using WP-Optimize 
+[2023-11-29 14:18:47 : INFO] - Completed processing task with ID : 140, and type 'smush' 
+[2023-11-29 14:18:47 : INFO] - Processing task with ID : 141, and type 'smush' 
+[2023-11-29 14:18:47 : INFO] - Re_Smush_It_Task with attachment ID : 1950, autocreated on : November 29, 2023 02:14:39 
+[2023-11-29 14:18:47 : INFO] - File: finger_6880839.png, Compression quality: 92 
+[2023-11-29 14:18:48 : INFO] - Cannot establish connection with reSmush.it webservice. Please try later 
+[2023-11-29 14:18:48 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-29 14:18:48 : INFO] - Processing task with ID : 142, and type 'smush' 
+[2023-11-29 14:18:48 : INFO] - Re_Smush_It_Task with attachment ID : 1951, autocreated on : November 29, 2023 02:14:39 
+[2023-11-29 14:18:48 : INFO] - File: forceps_2818963.png, Compression quality: 92 
+[2023-11-29 14:18:49 : INFO] - Backing up the original image - 2023/11/forceps_2818963-updraft-pre-smush-original.png 
+[2023-11-29 14:18:49 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-29 14:18:49 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/11/forceps_2818963.png.The file was compressed from 1.35 KB to 1.35 KB, saving 0 percent, using WP-Optimize 
+[2023-11-29 14:18:49 : INFO] - Completed processing task with ID : 142, and type 'smush' 
+[2023-11-29 14:18:49 : INFO] - Processing task with ID : 143, and type 'smush' 
+[2023-11-29 14:18:49 : INFO] - Re_Smush_It_Task with attachment ID : 1952, autocreated on : November 29, 2023 02:14:40 
+[2023-11-29 14:18:49 : INFO] - File: watercolors_3384073.png, Compression quality: 92 
+[2023-11-29 14:18:50 : INFO] - Backing up the original image - 2023/11/watercolors_3384073-updraft-pre-smush-original.png 
+[2023-11-29 14:18:50 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-29 14:18:50 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/11/watercolors_3384073.png.The file was compressed from 1.51 KB to 1.51 KB, saving 0 percent, using WP-Optimize 
+[2023-11-29 14:18:50 : INFO] - Completed processing task with ID : 143, and type 'smush' 
+[2023-11-29 14:18:50 : INFO] - Processing task with ID : 144, and type 'smush' 
+[2023-11-29 14:18:50 : INFO] - Re_Smush_It_Task with attachment ID : 1953, autocreated on : November 29, 2023 02:14:40 
+[2023-11-29 14:18:50 : INFO] - File: woman_3154975.png, Compression quality: 92 
+[2023-11-29 14:18:51 : INFO] - Backing up the original image - 2023/11/woman_3154975-updraft-pre-smush-original.png 
+[2023-11-29 14:18:51 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-29 14:18:51 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/11/woman_3154975.png.The file was compressed from 1.33 KB to 1.33 KB, saving 0 percent, using WP-Optimize 
+[2023-11-29 14:18:51 : INFO] - Completed processing task with ID : 144, and type 'smush' 
+[2023-11-29 14:18:51 : INFO] - Lock option (updraft_lock_smush, _clinicaoptions) released 
+[2023-11-29 14:18:51 : INFO] - Successfully processed the queue (smush). 6 tasks were processed out of 6. 
+[2023-11-29 14:18:51 : INFO] - Lock option (updraft_lock_smush, _clinicaoptions) was deleted from the database 
+[2023-11-29 14:18:51 : INFO] - Cleaning up tasks of type (smush). A total of 5 tasks will be deleted. 
+[2023-11-29 14:28:51 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2023-11-29 14:28:51 : DEBUG] - Lock option (updraft_lock_smush, _clinicaoptions) was created in the database 
+[2023-11-29 14:28:51 : INFO] - Lock (updraft_lock_smush, _clinicaoptions) acquired after initialising the database 
+[2023-11-29 14:28:51 : INFO] - Processing task with ID : 141, and type 'smush' 
+[2023-11-29 14:28:51 : INFO] - Re_Smush_It_Task with attachment ID : 1950, autocreated on : November 29, 2023 02:14:39 
+[2023-11-29 14:28:51 : INFO] - File: finger_6880839.png, Compression quality: 92 
+[2023-11-29 14:28:52 : INFO] - Backing up the original image - 2023/11/finger_6880839-updraft-pre-smush-original.png 
+[2023-11-29 14:28:52 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-11-29 14:28:52 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/11/finger_6880839.png.The file was compressed from 1.01 KB to 1.01 KB, saving 0 percent, using WP-Optimize 
+[2023-11-29 14:28:52 : INFO] - Completed processing task with ID : 141, and type 'smush' 
+[2023-11-29 14:28:52 : INFO] - Lock option (updraft_lock_smush, _clinicaoptions) released 
+[2023-11-29 14:28:52 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2023-11-29 14:28:52 : INFO] - Lock option (updraft_lock_smush, _clinicaoptions) was deleted from the database 
+[2023-11-29 14:28:52 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2023-12-04 12:51:48 : INFO] - Re_Smush_It_Task with attachment ID : 1987, autocreated on : December 04, 2023 12:51:48 
+[2023-12-04 12:57:19 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2023-12-04 12:57:19 : DEBUG] - Lock option (updraft_lock_smush, _clinicaoptions) was created in the database 
+[2023-12-04 12:57:19 : INFO] - Lock (updraft_lock_smush, _clinicaoptions) acquired after initialising the database 
+[2023-12-04 12:57:19 : INFO] - Processing task with ID : 145, and type 'smush' 
+[2023-12-04 12:57:19 : INFO] - Re_Smush_It_Task with attachment ID : 1987, autocreated on : December 04, 2023 12:51:48 
+[2023-12-04 12:57:19 : INFO] - File: Sem_titulo-1_Prancheta_1.png, Compression quality: 92 
+[2023-12-04 12:57:21 : INFO] - Backing up the original image - 2023/12/Sem_titulo-1_Prancheta_1-updraft-pre-smush-original.png 
+[2023-12-04 12:57:29 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-04 12:57:29 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/12/Sem_titulo-1_Prancheta_1.png.The file was compressed from 60.33 KB to 29.93 KB, saving 50.39 percent, using WP-Optimize 
+[2023-12-04 12:57:29 : INFO] - Completed processing task with ID : 145, and type 'smush' 
+[2023-12-04 12:57:29 : INFO] - Lock option (updraft_lock_smush, _clinicaoptions) released 
+[2023-12-04 12:57:29 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2023-12-04 12:57:29 : INFO] - Lock option (updraft_lock_smush, _clinicaoptions) was deleted from the database 
+[2023-12-04 12:57:29 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2023-12-04 13:27:03 : INFO] - Re_Smush_It_Task with attachment ID : 2002, autocreated on : December 04, 2023 01:27:03 
+[2023-12-04 13:27:04 : INFO] - Re_Smush_It_Task with attachment ID : 2003, autocreated on : December 04, 2023 01:27:04 
+[2023-12-04 13:27:13 : INFO] - Re_Smush_It_Task with attachment ID : 2004, autocreated on : December 04, 2023 01:27:13 
+[2023-12-04 13:27:13 : INFO] - Re_Smush_It_Task with attachment ID : 2005, autocreated on : December 04, 2023 01:27:13 
+[2023-12-04 13:32:19 : INFO] - A total of 4 tasks of type smush found and will be processed in this iteration 
+[2023-12-04 13:32:19 : DEBUG] - Lock option (updraft_lock_smush, _clinicaoptions) was created in the database 
+[2023-12-04 13:32:19 : INFO] - Lock (updraft_lock_smush, _clinicaoptions) acquired after initialising the database 
+[2023-12-04 13:32:19 : INFO] - Processing task with ID : 146, and type 'smush' 
+[2023-12-04 13:32:19 : INFO] - Re_Smush_It_Task with attachment ID : 2002, autocreated on : December 04, 2023 01:27:03 
+[2023-12-04 13:32:19 : INFO] - File: close-up-foto-de-uma-mulher-afro-americana-encaracolada-feliz-e-impressionada-levanta-os-punhos-cerrados-obtem-prazer-com-os-tratamentos-higienicos-usa-bandana-na-cabeca-la.jpg, Compression quality: 92 
+[2023-12-04 13:32:22 : INFO] - Backing up the original image - 2023/12/close-up-foto-de-uma-mulher-afro-americana-encaracolada-feliz-e-impressionada-levanta-os-punhos-cerrados-obtem-prazer-com-os-tratamentos-higienicos-usa-bandana-na-cabeca-la-updraft-pre-smush-original.jpg 
+[2023-12-04 13:32:25 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-04 13:32:25 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/12/close-up-foto-de-uma-mulher-afro-americana-encaracolada-feliz-e-impressionada-levanta-os-punhos-cerrados-obtem-prazer-com-os-tratamentos-higienicos-usa-bandana-na-cabeca-la.jpg.The file was compressed from 324.21 KB to 95.14 KB, saving 70.65 percent, using WP-Optimize 
+[2023-12-04 13:32:25 : INFO] - Completed processing task with ID : 146, and type 'smush' 
+[2023-12-04 13:32:25 : INFO] - Processing task with ID : 147, and type 'smush' 
+[2023-12-04 13:32:25 : INFO] - Re_Smush_It_Task with attachment ID : 2003, autocreated on : December 04, 2023 01:27:04 
+[2023-12-04 13:32:25 : INFO] - File: mulher-jovem-de-pele-escura-surpreendida-limpa-o-rosto-com-espuma-chocada-com-a-falta-de-tempo-massageia-as-bochechas-concentra-se-usa-bandana-fica-de-pe-com-o-corpo-nu-con-scaled.jpg, Compression quality: 92 
+[2023-12-04 13:32:28 : INFO] - Backing up the original image - 2023/12/mulher-jovem-de-pele-escura-surpreendida-limpa-o-rosto-com-espuma-chocada-com-a-falta-de-tempo-massageia-as-bochechas-concentra-se-usa-bandana-fica-de-pe-com-o-corpo-nu-con-scaled-updraft-pre-smush-original.jpg 
+[2023-12-04 13:32:39 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-04 13:32:39 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/12/mulher-jovem-de-pele-escura-surpreendida-limpa-o-rosto-com-espuma-chocada-com-a-falta-de-tempo-massageia-as-bochechas-concentra-se-usa-bandana-fica-de-pe-com-o-corpo-nu-con-scaled.jpg.The file was compressed from 327.17 KB to 301.02 KB, saving 7.99 percent, using WP-Optimize 
+[2023-12-04 13:32:39 : INFO] - Completed processing task with ID : 147, and type 'smush' 
+[2023-12-04 13:32:39 : INFO] - Processing task with ID : 148, and type 'smush' 
+[2023-12-04 13:32:39 : INFO] - Re_Smush_It_Task with attachment ID : 2004, autocreated on : December 04, 2023 01:27:13 
+[2023-12-04 13:32:39 : INFO] - File: mulher-jovem-levanta-as-palmas-das-maos-sobre-o-rosto-mantem-os-olhos-fechados-mostra-dentes-brancos-usa-espuma-de-limpeza-para-cuidar-da-pele-obtem-verdadeiro-prazer.jpg, Compression quality: 92 
+[2023-12-04 13:32:41 : INFO] - Backing up the original image - 2023/12/mulher-jovem-levanta-as-palmas-das-maos-sobre-o-rosto-mantem-os-olhos-fechados-mostra-dentes-brancos-usa-espuma-de-limpeza-para-cuidar-da-pele-obtem-verdadeiro-prazer-updraft-pre-smush-original.jpg 
+[2023-12-04 13:32:45 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-04 13:32:45 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/12/mulher-jovem-levanta-as-palmas-das-maos-sobre-o-rosto-mantem-os-olhos-fechados-mostra-dentes-brancos-usa-espuma-de-limpeza-para-cuidar-da-pele-obtem-verdadeiro-prazer.jpg.The file was compressed from 340.47 KB to 98.07 KB, saving 71.19 percent, using WP-Optimize 
+[2023-12-04 13:32:45 : INFO] - Completed processing task with ID : 148, and type 'smush' 
+[2023-12-04 13:32:45 : INFO] - Processing task with ID : 149, and type 'smush' 
+[2023-12-04 13:32:45 : INFO] - Re_Smush_It_Task with attachment ID : 2005, autocreated on : December 04, 2023 01:27:13 
+[2023-12-04 13:32:45 : INFO] - File: vecteezy_beautiful-perfect-skin-gorgeous-young-woman-portrait-in-studio_5086947-scaled.jpg, Compression quality: 92 
+[2023-12-04 13:32:48 : INFO] - Backing up the original image - 2023/12/vecteezy_beautiful-perfect-skin-gorgeous-young-woman-portrait-in-studio_5086947-scaled-updraft-pre-smush-original.jpg 
+[2023-12-04 13:32:57 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-04 13:32:57 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/12/vecteezy_beautiful-perfect-skin-gorgeous-young-woman-portrait-in-studio_5086947-scaled.jpg.The file was compressed from 263.35 KB to 228.64 KB, saving 13.18 percent, using WP-Optimize 
+[2023-12-04 13:32:57 : INFO] - Completed processing task with ID : 149, and type 'smush' 
+[2023-12-04 13:32:57 : INFO] - Lock option (updraft_lock_smush, _clinicaoptions) released 
+[2023-12-04 13:32:57 : INFO] - Successfully processed the queue (smush). 4 tasks were processed out of 4. 
+[2023-12-04 13:32:57 : INFO] - Lock option (updraft_lock_smush, _clinicaoptions) was deleted from the database 
+[2023-12-04 13:32:57 : INFO] - Cleaning up tasks of type (smush). A total of 4 tasks will be deleted. 
+[2023-12-05 13:15:54 : INFO] - Re_Smush_It_Task with attachment ID : 2032, autocreated on : December 05, 2023 01:15:54 
+[2023-12-05 13:21:02 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2023-12-05 13:21:02 : DEBUG] - Lock option (updraft_lock_smush, _clinicaoptions) was created in the database 
+[2023-12-05 13:21:02 : INFO] - Lock (updraft_lock_smush, _clinicaoptions) acquired after initialising the database 
+[2023-12-05 13:21:02 : INFO] - Processing task with ID : 150, and type 'smush' 
+[2023-12-05 13:21:02 : INFO] - Re_Smush_It_Task with attachment ID : 2032, autocreated on : December 05, 2023 01:15:54 
+[2023-12-05 13:21:02 : INFO] - File: 313518379_665232985169762_336256742178833262_n.jpg, Compression quality: 92 
+[2023-12-05 13:21:04 : INFO] - Backing up the original image - 2023/12/313518379_665232985169762_336256742178833262_n-updraft-pre-smush-original.jpg 
+[2023-12-05 13:21:07 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-05 13:21:07 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/12/313518379_665232985169762_336256742178833262_n.jpg.The file was compressed from 40.77 KB to 39.91 KB, saving 2.11 percent, using WP-Optimize 
+[2023-12-05 13:21:07 : INFO] - Completed processing task with ID : 150, and type 'smush' 
+[2023-12-05 13:21:07 : INFO] - Lock option (updraft_lock_smush, _clinicaoptions) released 
+[2023-12-05 13:21:07 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2023-12-05 13:21:07 : INFO] - Lock option (updraft_lock_smush, _clinicaoptions) was deleted from the database 
+[2023-12-05 13:21:07 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2023-12-05 13:38:41 : INFO] - Re_Smush_It_Task with attachment ID : 2035, autocreated on : December 05, 2023 01:38:41 
+[2023-12-05 13:38:41 : INFO] - Re_Smush_It_Task with attachment ID : 2036, autocreated on : December 05, 2023 01:38:41 
+[2023-12-05 13:38:42 : INFO] - Re_Smush_It_Task with attachment ID : 2037, autocreated on : December 05, 2023 01:38:42 
+[2023-12-05 13:38:42 : INFO] - Re_Smush_It_Task with attachment ID : 2038, autocreated on : December 05, 2023 01:38:42 
+[2023-12-05 13:38:43 : INFO] - Re_Smush_It_Task with attachment ID : 2039, autocreated on : December 05, 2023 01:38:42 
+[2023-12-05 13:38:43 : INFO] - Re_Smush_It_Task with attachment ID : 2040, autocreated on : December 05, 2023 01:38:43 
+[2023-12-05 13:44:03 : INFO] - A total of 6 tasks of type smush found and will be processed in this iteration 
+[2023-12-05 13:44:03 : DEBUG] - Lock option (updraft_lock_smush, _clinicaoptions) was created in the database 
+[2023-12-05 13:44:03 : INFO] - Lock (updraft_lock_smush, _clinicaoptions) acquired after initialising the database 
+[2023-12-05 13:44:03 : INFO] - Processing task with ID : 151, and type 'smush' 
+[2023-12-05 13:44:03 : INFO] - Re_Smush_It_Task with attachment ID : 2035, autocreated on : December 05, 2023 01:38:41 
+[2023-12-05 13:44:03 : INFO] - File: finger_6880839.png, Compression quality: 92 
+[2023-12-05 13:44:05 : INFO] - Backing up the original image - 2023/12/finger_6880839-updraft-pre-smush-original.png 
+[2023-12-05 13:44:07 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-05 13:44:07 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/12/finger_6880839.png.The file was compressed from 16.87 KB to 8.30 KB, saving 50.78 percent, using WP-Optimize 
+[2023-12-05 13:44:07 : INFO] - Completed processing task with ID : 151, and type 'smush' 
+[2023-12-05 13:44:07 : INFO] - Processing task with ID : 152, and type 'smush' 
+[2023-12-05 13:44:07 : INFO] - Re_Smush_It_Task with attachment ID : 2036, autocreated on : December 05, 2023 01:38:41 
+[2023-12-05 13:44:07 : INFO] - File: forceps_2818963.png, Compression quality: 92 
+[2023-12-05 13:44:08 : INFO] - Backing up the original image - 2023/12/forceps_2818963-updraft-pre-smush-original.png 
+[2023-12-05 13:44:10 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-05 13:44:10 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/12/forceps_2818963.png.The file was compressed from 27.37 KB to 13.70 KB, saving 49.96 percent, using WP-Optimize 
+[2023-12-05 13:44:10 : INFO] - Completed processing task with ID : 152, and type 'smush' 
+[2023-12-05 13:44:10 : INFO] - Processing task with ID : 153, and type 'smush' 
+[2023-12-05 13:44:10 : INFO] - Re_Smush_It_Task with attachment ID : 2037, autocreated on : December 05, 2023 01:38:42 
+[2023-12-05 13:44:10 : INFO] - File: hair-dryer_3383298.png, Compression quality: 92 
+[2023-12-05 13:44:12 : INFO] - Backing up the original image - 2023/12/hair-dryer_3383298-updraft-pre-smush-original.png 
+[2023-12-05 13:44:13 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-05 13:44:13 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/12/hair-dryer_3383298.png.The file was compressed from 18.09 KB to 8.64 KB, saving 52.24 percent, using WP-Optimize 
+[2023-12-05 13:44:14 : INFO] - Completed processing task with ID : 153, and type 'smush' 
+[2023-12-05 13:44:14 : INFO] - Processing task with ID : 154, and type 'smush' 
+[2023-12-05 13:44:14 : INFO] - Re_Smush_It_Task with attachment ID : 2038, autocreated on : December 05, 2023 01:38:42 
+[2023-12-05 13:44:14 : INFO] - File: hairstylist_3290621.png, Compression quality: 92 
+[2023-12-05 13:44:15 : INFO] - Backing up the original image - 2023/12/hairstylist_3290621-updraft-pre-smush-original.png 
+[2023-12-05 13:44:17 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-05 13:44:17 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/12/hairstylist_3290621.png.The file was compressed from 32.17 KB to 15.74 KB, saving 51.08 percent, using WP-Optimize 
+[2023-12-05 13:44:17 : INFO] - Completed processing task with ID : 154, and type 'smush' 
+[2023-12-05 13:44:17 : INFO] - Processing task with ID : 155, and type 'smush' 
+[2023-12-05 13:44:17 : INFO] - Re_Smush_It_Task with attachment ID : 2039, autocreated on : December 05, 2023 01:38:42 
+[2023-12-05 13:44:17 : INFO] - File: watercolors_3384073.png, Compression quality: 92 
+[2023-12-05 13:44:18 : INFO] - Backing up the original image - 2023/12/watercolors_3384073-updraft-pre-smush-original.png 
+[2023-12-05 13:44:21 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-05 13:44:21 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/12/watercolors_3384073.png.The file was compressed from 23.83 KB to 12.24 KB, saving 48.63 percent, using WP-Optimize 
+[2023-12-05 13:44:21 : INFO] - Completed processing task with ID : 155, and type 'smush' 
+[2023-12-05 13:44:21 : INFO] - Processing task with ID : 156, and type 'smush' 
+[2023-12-05 13:44:21 : INFO] - Re_Smush_It_Task with attachment ID : 2040, autocreated on : December 05, 2023 01:38:43 
+[2023-12-05 13:44:21 : INFO] - File: woman_3154975.png, Compression quality: 92 
+[2023-12-05 13:44:22 : INFO] - Backing up the original image - 2023/12/woman_3154975-updraft-pre-smush-original.png 
+[2023-12-05 13:44:24 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-05 13:44:24 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/12/woman_3154975.png.The file was compressed from 23.45 KB to 11.52 KB, saving 50.86 percent, using WP-Optimize 
+[2023-12-05 13:44:24 : INFO] - Completed processing task with ID : 156, and type 'smush' 
+[2023-12-05 13:44:24 : INFO] - Lock option (updraft_lock_smush, _clinicaoptions) released 
+[2023-12-05 13:44:24 : INFO] - Successfully processed the queue (smush). 6 tasks were processed out of 6. 
+[2023-12-05 13:44:24 : INFO] - Lock option (updraft_lock_smush, _clinicaoptions) was deleted from the database 
+[2023-12-05 13:44:24 : INFO] - Cleaning up tasks of type (smush). A total of 6 tasks will be deleted. 
+[2023-12-05 13:54:52 : INFO] - Re_Smush_It_Task with attachment ID : 2046, autocreated on : December 05, 2023 01:54:52 
+[2023-12-05 13:54:53 : INFO] - Re_Smush_It_Task with attachment ID : 2047, autocreated on : December 05, 2023 01:54:53 
+[2023-12-05 13:54:53 : INFO] - Re_Smush_It_Task with attachment ID : 2048, autocreated on : December 05, 2023 01:54:53 
+[2023-12-05 13:54:53 : INFO] - Re_Smush_It_Task with attachment ID : 2049, autocreated on : December 05, 2023 01:54:53 
+[2023-12-05 13:54:54 : INFO] - Re_Smush_It_Task with attachment ID : 2050, autocreated on : December 05, 2023 01:54:54 
+[2023-12-05 13:54:54 : INFO] - Re_Smush_It_Task with attachment ID : 2051, autocreated on : December 05, 2023 01:54:54 
+[2023-12-05 13:58:06 : INFO] - Re_Smush_It_Task with attachment ID : 2053, autocreated on : December 05, 2023 01:58:06 
+[2023-12-05 13:58:15 : INFO] - Re_Smush_It_Task with attachment ID : 2054, autocreated on : December 05, 2023 01:58:15 
+[2023-12-05 13:58:24 : INFO] - Re_Smush_It_Task with attachment ID : 2055, autocreated on : December 05, 2023 01:58:24 
+[2023-12-05 13:58:33 : INFO] - Re_Smush_It_Task with attachment ID : 2056, autocreated on : December 05, 2023 01:58:33 
+[2023-12-05 13:58:47 : INFO] - Re_Smush_It_Task with attachment ID : 2057, autocreated on : December 05, 2023 01:58:47 
+[2023-12-05 13:58:57 : INFO] - Re_Smush_It_Task with attachment ID : 2058, autocreated on : December 05, 2023 01:58:57 
+[2023-12-05 14:00:08 : INFO] - A total of 12 tasks of type smush found and will be processed in this iteration 
+[2023-12-05 14:00:08 : DEBUG] - Lock option (updraft_lock_smush, _clinicaoptions) was created in the database 
+[2023-12-05 14:00:08 : INFO] - Lock (updraft_lock_smush, _clinicaoptions) acquired after initialising the database 
+[2023-12-05 14:00:08 : INFO] - Processing task with ID : 157, and type 'smush' 
+[2023-12-05 14:00:08 : INFO] - Task with ID 157 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2023-12-05 14:00:08 : INFO] - Processing task with ID : 158, and type 'smush' 
+[2023-12-05 14:00:08 : INFO] - Task with ID 158 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2023-12-05 14:00:08 : INFO] - Processing task with ID : 159, and type 'smush' 
+[2023-12-05 14:00:08 : INFO] - Task with ID 159 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2023-12-05 14:00:08 : INFO] - Processing task with ID : 160, and type 'smush' 
+[2023-12-05 14:00:08 : INFO] - Task with ID 160 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2023-12-05 14:00:08 : INFO] - Processing task with ID : 161, and type 'smush' 
+[2023-12-05 14:00:08 : INFO] - Task with ID 161 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2023-12-05 14:00:08 : INFO] - Processing task with ID : 162, and type 'smush' 
+[2023-12-05 14:00:08 : INFO] - Task with ID 162 and type (smush) failed with error code invalid_file_path - The linked attachment ID does not have a valid file path 
+[2023-12-05 14:00:08 : INFO] - Processing task with ID : 163, and type 'smush' 
+[2023-12-05 14:00:08 : INFO] - Re_Smush_It_Task with attachment ID : 2053, autocreated on : December 05, 2023 01:58:06 
+[2023-12-05 14:00:08 : INFO] - File: woman_3154975.png, Compression quality: 92 
+[2023-12-05 14:00:10 : INFO] - Backing up the original image - 2023/12/woman_3154975-updraft-pre-smush-original.png 
+[2023-12-05 14:00:12 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-05 14:00:12 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/12/woman_3154975.png.The file was compressed from 10.00 KB to 4.61 KB, saving 53.84 percent, using WP-Optimize 
+[2023-12-05 14:00:12 : INFO] - Completed processing task with ID : 163, and type 'smush' 
+[2023-12-05 14:00:12 : INFO] - Processing task with ID : 164, and type 'smush' 
+[2023-12-05 14:00:12 : INFO] - Re_Smush_It_Task with attachment ID : 2054, autocreated on : December 05, 2023 01:58:15 
+[2023-12-05 14:00:12 : INFO] - File: hairstylist_3290621.png, Compression quality: 92 
+[2023-12-05 14:00:13 : INFO] - Backing up the original image - 2023/12/hairstylist_3290621-updraft-pre-smush-original.png 
+[2023-12-05 14:00:15 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-05 14:00:15 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/12/hairstylist_3290621.png.The file was compressed from 13.54 KB to 6.44 KB, saving 52.47 percent, using WP-Optimize 
+[2023-12-05 14:00:15 : INFO] - Completed processing task with ID : 164, and type 'smush' 
+[2023-12-05 14:00:15 : INFO] - Processing task with ID : 165, and type 'smush' 
+[2023-12-05 14:00:15 : INFO] - Re_Smush_It_Task with attachment ID : 2055, autocreated on : December 05, 2023 01:58:24 
+[2023-12-05 14:00:15 : INFO] - File: hair-dryer_3383298_Prancheta_1.png, Compression quality: 92 
+[2023-12-05 14:00:16 : INFO] - Backing up the original image - 2023/12/hair-dryer_3383298_Prancheta_1-updraft-pre-smush-original.png 
+[2023-12-05 14:00:18 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-05 14:00:18 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/12/hair-dryer_3383298_Prancheta_1.png.The file was compressed from 8.25 KB to 3.79 KB, saving 54.07 percent, using WP-Optimize 
+[2023-12-05 14:00:18 : INFO] - Completed processing task with ID : 165, and type 'smush' 
+[2023-12-05 14:00:18 : INFO] - Processing task with ID : 166, and type 'smush' 
+[2023-12-05 14:00:18 : INFO] - Re_Smush_It_Task with attachment ID : 2056, autocreated on : December 05, 2023 01:58:33 
+[2023-12-05 14:00:18 : INFO] - File: finger_6880839.png, Compression quality: 92 
+[2023-12-05 14:00:19 : INFO] - Backing up the original image - 2023/12/finger_6880839-updraft-pre-smush-original.png 
+[2023-12-05 14:00:21 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-05 14:00:21 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/12/finger_6880839.png.The file was compressed from 7.37 KB to 3.50 KB, saving 52.47 percent, using WP-Optimize 
+[2023-12-05 14:00:21 : INFO] - Completed processing task with ID : 166, and type 'smush' 
+[2023-12-05 14:00:21 : INFO] - Processing task with ID : 167, and type 'smush' 
+[2023-12-05 14:00:21 : INFO] - Re_Smush_It_Task with attachment ID : 2057, autocreated on : December 05, 2023 01:58:47 
+[2023-12-05 14:00:21 : INFO] - File: forceps_2818963.png, Compression quality: 92 
+[2023-12-05 14:00:22 : INFO] - Backing up the original image - 2023/12/forceps_2818963-updraft-pre-smush-original.png 
+[2023-12-05 14:00:24 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-05 14:00:24 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/12/forceps_2818963.png.The file was compressed from 11.48 KB to 5.51 KB, saving 52.03 percent, using WP-Optimize 
+[2023-12-05 14:00:24 : INFO] - Completed processing task with ID : 167, and type 'smush' 
+[2023-12-05 14:00:24 : INFO] - Processing task with ID : 168, and type 'smush' 
+[2023-12-05 14:00:24 : INFO] - Re_Smush_It_Task with attachment ID : 2058, autocreated on : December 05, 2023 01:58:57 
+[2023-12-05 14:00:24 : INFO] - File: watercolors_3384073.png, Compression quality: 92 
+[2023-12-05 14:00:25 : INFO] - Backing up the original image - 2023/12/watercolors_3384073-updraft-pre-smush-original.png 
+[2023-12-05 14:00:27 : INFO] - There were no WebP conversion tools found on your server. 
+[2023-12-05 14:00:27 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2023/12/watercolors_3384073.png.The file was compressed from 10.03 KB to 5.03 KB, saving 49.91 percent, using WP-Optimize 
+[2023-12-05 14:00:27 : INFO] - Completed processing task with ID : 168, and type 'smush' 
+[2023-12-05 14:00:27 : INFO] - Lock option (updraft_lock_smush, _clinicaoptions) released 
+[2023-12-05 14:00:27 : INFO] - Successfully processed the queue (smush). 12 tasks were processed out of 12. 
+[2023-12-05 14:00:27 : INFO] - Lock option (updraft_lock_smush, _clinicaoptions) was deleted from the database 
+[2023-12-05 14:00:27 : INFO] - Cleaning up tasks of type (smush). A total of 6 tasks will be deleted. 
+[2024-01-12 20:31:20 : INFO] - Re_Smush_It_Task with attachment ID : 2128, autocreated on : January 12, 2024 08:31:20 
+[2024-01-12 20:33:14 : INFO] - Re_Smush_It_Task with attachment ID : 2129, autocreated on : January 12, 2024 08:33:14 
+[2024-01-12 20:33:49 : INFO] - Re_Smush_It_Task with attachment ID : 2130, autocreated on : January 12, 2024 08:33:49 
+[2024-01-12 20:33:56 : INFO] - Re_Smush_It_Task with attachment ID : 2131, autocreated on : January 12, 2024 08:33:56 
+[2024-01-12 20:34:01 : INFO] - Re_Smush_It_Task with attachment ID : 2132, autocreated on : January 12, 2024 08:34:01 
+[2024-01-12 20:34:06 : INFO] - Re_Smush_It_Task with attachment ID : 2133, autocreated on : January 12, 2024 08:34:06 
+[2024-01-12 20:36:20 : INFO] - A total of 6 tasks of type smush found and will be processed in this iteration 
+[2024-01-12 20:36:20 : DEBUG] - Lock option (updraft_lock_smush, _clinicaoptions) was created in the database 
+[2024-01-12 20:36:20 : INFO] - Lock (updraft_lock_smush, _clinicaoptions) acquired after initialising the database 
+[2024-01-12 20:36:20 : INFO] - Processing task with ID : 169, and type 'smush' 
+[2024-01-12 20:36:20 : INFO] - Re_Smush_It_Task with attachment ID : 2128, autocreated on : January 12, 2024 08:31:20 
+[2024-01-12 20:36:20 : INFO] - File: mulheres-trabalhando-juntas-plano-medio-scaled.jpg, Compression quality: 92 
+[2024-01-12 20:36:23 : INFO] - Backing up the original image - 2024/01/mulheres-trabalhando-juntas-plano-medio-scaled-updraft-pre-smush-original.jpg 
+[2024-01-12 20:36:28 : INFO] - Re_Smush_It_Task with attachment ID : 2135, autocreated on : January 12, 2024 08:36:28 
+[2024-01-12 20:36:33 : INFO] - Re_Smush_It_Task with attachment ID : 2136, autocreated on : January 12, 2024 08:36:33 
+[2024-01-12 20:36:33 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-12 20:36:33 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2024/01/mulheres-trabalhando-juntas-plano-medio-scaled.jpg.The file was compressed from 350.04 KB to 337.05 KB, saving 3.71 percent, using WP-Optimize 
+[2024-01-12 20:36:33 : INFO] - Completed processing task with ID : 169, and type 'smush' 
+[2024-01-12 20:36:33 : INFO] - Processing task with ID : 170, and type 'smush' 
+[2024-01-12 20:36:33 : INFO] - Re_Smush_It_Task with attachment ID : 2129, autocreated on : January 12, 2024 08:33:14 
+[2024-01-12 20:36:33 : INFO] - File: mulher-medica-vestindo-jaleco-com-estetoscopio-isolado-scaled.jpg, Compression quality: 92 
+[2024-01-12 20:36:36 : INFO] - Backing up the original image - 2024/01/mulher-medica-vestindo-jaleco-com-estetoscopio-isolado-scaled-updraft-pre-smush-original.jpg 
+[2024-01-12 20:36:46 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-12 20:36:46 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2024/01/mulher-medica-vestindo-jaleco-com-estetoscopio-isolado-scaled.jpg.The file was compressed from 256.44 KB to 219.02 KB, saving 14.59 percent, using WP-Optimize 
+[2024-01-12 20:36:46 : INFO] - Completed processing task with ID : 170, and type 'smush' 
+[2024-01-12 20:36:46 : INFO] - Processing task with ID : 171, and type 'smush' 
+[2024-01-12 20:36:46 : INFO] - Re_Smush_It_Task with attachment ID : 2130, autocreated on : January 12, 2024 08:33:49 
+[2024-01-12 20:36:46 : INFO] - File: mulher-medica-vestindo-jaleco-com-estetoscopio-isolado-1-scaled.jpg, Compression quality: 92 
+[2024-01-12 20:36:50 : INFO] - Backing up the original image - 2024/01/mulher-medica-vestindo-jaleco-com-estetoscopio-isolado-1-scaled-updraft-pre-smush-original.jpg 
+[2024-01-12 20:36:59 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-12 20:36:59 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2024/01/mulher-medica-vestindo-jaleco-com-estetoscopio-isolado-1-scaled.jpg.The file was compressed from 256.44 KB to 219.02 KB, saving 14.59 percent, using WP-Optimize 
+[2024-01-12 20:36:59 : INFO] - Completed processing task with ID : 171, and type 'smush' 
+[2024-01-12 20:36:59 : INFO] - Processing task with ID : 172, and type 'smush' 
+[2024-01-12 20:36:59 : INFO] - Re_Smush_It_Task with attachment ID : 2131, autocreated on : January 12, 2024 08:33:56 
+[2024-01-12 20:36:59 : INFO] - File: bela-jovem-doutora-olhando-a-camera-no-escritorio-scaled.jpg, Compression quality: 92 
+[2024-01-12 20:37:03 : INFO] - Backing up the original image - 2024/01/bela-jovem-doutora-olhando-a-camera-no-escritorio-scaled-updraft-pre-smush-original.jpg 
+[2024-01-12 20:37:14 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-12 20:37:14 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2024/01/bela-jovem-doutora-olhando-a-camera-no-escritorio-scaled.jpg.The file was compressed from 209.60 KB to 193.86 KB, saving 7.51 percent, using WP-Optimize 
+[2024-01-12 20:37:14 : INFO] - Completed processing task with ID : 172, and type 'smush' 
+[2024-01-12 20:37:14 : INFO] - Processing task with ID : 173, and type 'smush' 
+[2024-01-12 20:37:14 : INFO] - Re_Smush_It_Task with attachment ID : 2132, autocreated on : January 12, 2024 08:34:01 
+[2024-01-12 20:37:14 : INFO] - File: enfermeira-negra-em-seu-espaco-de-trabalho-scaled.jpg, Compression quality: 92 
+[2024-01-12 20:37:18 : INFO] - Backing up the original image - 2024/01/enfermeira-negra-em-seu-espaco-de-trabalho-scaled-updraft-pre-smush-original.jpg 
+[2024-01-12 20:37:31 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-12 20:37:31 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2024/01/enfermeira-negra-em-seu-espaco-de-trabalho-scaled.jpg.The file was compressed from 302.14 KB to 284.94 KB, saving 5.69 percent, using WP-Optimize 
+[2024-01-12 20:37:31 : INFO] - Completed processing task with ID : 173, and type 'smush' 
+[2024-01-12 20:37:31 : INFO] - Processing task with ID : 174, and type 'smush' 
+[2024-01-12 20:37:31 : INFO] - Re_Smush_It_Task with attachment ID : 2133, autocreated on : January 12, 2024 08:34:06 
+[2024-01-12 20:37:31 : INFO] - File: mulheres-trabalhando-juntas-plano-medio-1-scaled.jpg, Compression quality: 92 
+[2024-01-12 20:37:36 : INFO] - Backing up the original image - 2024/01/mulheres-trabalhando-juntas-plano-medio-1-scaled-updraft-pre-smush-original.jpg 
+[2024-01-12 20:37:49 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-12 20:37:49 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2024/01/mulheres-trabalhando-juntas-plano-medio-1-scaled.jpg.The file was compressed from 350.04 KB to 337.05 KB, saving 3.71 percent, using WP-Optimize 
+[2024-01-12 20:37:49 : INFO] - Completed processing task with ID : 174, and type 'smush' 
+[2024-01-12 20:37:49 : INFO] - Lock option (updraft_lock_smush, _clinicaoptions) released 
+[2024-01-12 20:37:49 : INFO] - Successfully processed the queue (smush). 6 tasks were processed out of 6. 
+[2024-01-12 20:37:49 : INFO] - Lock option (updraft_lock_smush, _clinicaoptions) was deleted from the database 
+[2024-01-12 20:37:49 : INFO] - Cleaning up tasks of type (smush). A total of 6 tasks will be deleted. 
+[2024-01-12 20:41:23 : INFO] - Re_Smush_It_Task with attachment ID : 2143, autocreated on : January 12, 2024 08:41:23 
+[2024-01-12 20:41:39 : INFO] - Re_Smush_It_Task with attachment ID : 2144, autocreated on : January 12, 2024 08:41:39 
+[2024-01-12 20:46:37 : INFO] - A total of 4 tasks of type smush found and will be processed in this iteration 
+[2024-01-12 20:46:37 : DEBUG] - Lock option (updraft_lock_smush, _clinicaoptions) was created in the database 
+[2024-01-12 20:46:37 : INFO] - Lock (updraft_lock_smush, _clinicaoptions) acquired after initialising the database 
+[2024-01-12 20:46:37 : INFO] - Processing task with ID : 175, and type 'smush' 
+[2024-01-12 20:46:37 : INFO] - Re_Smush_It_Task with attachment ID : 2135, autocreated on : January 12, 2024 08:36:28 
+[2024-01-12 20:46:37 : INFO] - File: mulher-africana-macia-que-sorri-apreciando-a-massagem-com-os-olhos-fechados-no-spa-resort-scaled.jpg, Compression quality: 92 
+[2024-01-12 20:46:42 : INFO] - Backing up the original image - 2024/01/mulher-africana-macia-que-sorri-apreciando-a-massagem-com-os-olhos-fechados-no-spa-resort-scaled-updraft-pre-smush-original.jpg 
+[2024-01-12 20:46:56 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-12 20:46:56 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2024/01/mulher-africana-macia-que-sorri-apreciando-a-massagem-com-os-olhos-fechados-no-spa-resort-scaled.jpg.The file was compressed from 394.53 KB to 376.47 KB, saving 4.58 percent, using WP-Optimize 
+[2024-01-12 20:46:56 : INFO] - Completed processing task with ID : 175, and type 'smush' 
+[2024-01-12 20:46:56 : INFO] - Processing task with ID : 176, and type 'smush' 
+[2024-01-12 20:46:56 : INFO] - Re_Smush_It_Task with attachment ID : 2136, autocreated on : January 12, 2024 08:36:33 
+[2024-01-12 20:46:56 : INFO] - File: mulher-no-salao-de-cabeleireiro-scaled.jpg, Compression quality: 92 
+[2024-01-12 20:47:01 : INFO] - Backing up the original image - 2024/01/mulher-no-salao-de-cabeleireiro-scaled-updraft-pre-smush-original.jpg 
+[2024-01-12 20:47:15 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-12 20:47:15 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2024/01/mulher-no-salao-de-cabeleireiro-scaled.jpg.The file was compressed from 413.40 KB to 403.33 KB, saving 2.44 percent, using WP-Optimize 
+[2024-01-12 20:47:15 : INFO] - Completed processing task with ID : 176, and type 'smush' 
+[2024-01-12 20:47:15 : INFO] - Processing task with ID : 177, and type 'smush' 
+[2024-01-12 20:47:15 : INFO] - Re_Smush_It_Task with attachment ID : 2143, autocreated on : January 12, 2024 08:41:23 
+[2024-01-12 20:47:15 : INFO] - File: v914-ning-39-scaled.jpg, Compression quality: 92 
+[2024-01-12 20:47:17 : INFO] - Backing up the original image - 2024/01/v914-ning-39-scaled-updraft-pre-smush-original.jpg 
+[2024-01-12 20:47:26 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-12 20:47:26 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2024/01/v914-ning-39-scaled.jpg.The file was compressed from 133.97 KB to 84.97 KB, saving 36.57 percent, using WP-Optimize 
+[2024-01-12 20:47:26 : INFO] - Completed processing task with ID : 177, and type 'smush' 
+[2024-01-12 20:47:26 : INFO] - Processing task with ID : 178, and type 'smush' 
+[2024-01-12 20:47:26 : INFO] - Re_Smush_It_Task with attachment ID : 2144, autocreated on : January 12, 2024 08:41:39 
+[2024-01-12 20:47:26 : INFO] - File: cropped-v914-ning-39-scaled-1.jpg, Compression quality: 92 
+[2024-01-12 20:47:28 : INFO] - Backing up the original image - 2024/01/cropped-v914-ning-39-scaled-1-updraft-pre-smush-original.jpg 
+[2024-01-12 20:47:34 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-12 20:47:34 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2024/01/cropped-v914-ning-39-scaled-1.jpg.The file was compressed from 67.72 KB to 60.25 KB, saving 11.03 percent, using WP-Optimize 
+[2024-01-12 20:47:34 : INFO] - Completed processing task with ID : 178, and type 'smush' 
+[2024-01-12 20:47:34 : INFO] - Lock option (updraft_lock_smush, _clinicaoptions) released 
+[2024-01-12 20:47:34 : INFO] - Successfully processed the queue (smush). 4 tasks were processed out of 4. 
+[2024-01-12 20:47:34 : INFO] - Lock option (updraft_lock_smush, _clinicaoptions) was deleted from the database 
+[2024-01-12 20:47:34 : INFO] - Cleaning up tasks of type (smush). A total of 4 tasks will be deleted. 
+[2024-01-17 13:38:09 : INFO] - Re_Smush_It_Task with attachment ID : 2171, autocreated on : January 17, 2024 01:38:09 
+[2024-01-17 13:38:10 : INFO] - Re_Smush_It_Task with attachment ID : 2172, autocreated on : January 17, 2024 01:38:10 
+[2024-01-17 13:38:10 : INFO] - Re_Smush_It_Task with attachment ID : 2173, autocreated on : January 17, 2024 01:38:10 
+[2024-01-17 13:38:11 : INFO] - Re_Smush_It_Task with attachment ID : 2174, autocreated on : January 17, 2024 01:38:11 
+[2024-01-17 13:38:11 : INFO] - Re_Smush_It_Task with attachment ID : 2175, autocreated on : January 17, 2024 01:38:11 
+[2024-01-17 13:38:12 : INFO] - Re_Smush_It_Task with attachment ID : 2176, autocreated on : January 17, 2024 01:38:11 
+[2024-01-17 13:38:21 : INFO] - Re_Smush_It_Task with attachment ID : 2177, autocreated on : January 17, 2024 01:38:21 
+[2024-01-17 13:38:22 : INFO] - Re_Smush_It_Task with attachment ID : 2178, autocreated on : January 17, 2024 01:38:22 
+[2024-01-17 13:38:26 : INFO] - Re_Smush_It_Task with attachment ID : 2179, autocreated on : January 17, 2024 01:38:26 
+[2024-01-17 13:38:27 : INFO] - Re_Smush_It_Task with attachment ID : 2180, autocreated on : January 17, 2024 01:38:27 
+[2024-01-17 13:39:10 : INFO] - Re_Smush_It_Task with attachment ID : 2181, autocreated on : January 17, 2024 01:39:10 
+[2024-01-17 13:43:12 : INFO] - A total of 11 tasks of type smush found and will be processed in this iteration 
+[2024-01-17 13:43:12 : DEBUG] - Lock option (updraft_lock_smush, _clinicaoptions) was created in the database 
+[2024-01-17 13:43:12 : INFO] - A total of 11 tasks of type smush found and will be processed in this iteration 
+[2024-01-17 13:43:12 : DEBUG] - Lock option (updraft_lock_smush, _clinicaoptions) already existed in the database 
+[2024-01-17 13:43:12 : INFO] - Lock (updraft_lock_smush, _clinicaoptions) acquired after initialising the database 
+[2024-01-17 13:43:12 : INFO] - Lock (updraft_lock_smush, _clinicaoptions) could not be acquired (it is locked) 
+[2024-01-17 13:43:12 : INFO] - Failed to gain semaphore lock (smush) - another process is already processing the queue - aborting (if this is wrong - i.e. if the other process crashed without removing the lock, then another can be started after 1 minute 
+[2024-01-17 13:43:12 : INFO] - Processing task with ID : 179, and type 'smush' 
+[2024-01-17 13:43:12 : INFO] - Re_Smush_It_Task with attachment ID : 2171, autocreated on : January 17, 2024 01:38:09 
+[2024-01-17 13:43:12 : INFO] - File: close-up-foto-de-uma-mulher-afro-americana-encaracolada-feliz-e-impressionada-levanta-os-punhos-cerrados-obtem-prazer-com-os-tratamentos-higienicos-usa-bandana-na-cabeca-la.jpg, Compression quality: 92 
+[2024-01-17 13:43:15 : INFO] - Backing up the original image - 2024/01/close-up-foto-de-uma-mulher-afro-americana-encaracolada-feliz-e-impressionada-levanta-os-punhos-cerrados-obtem-prazer-com-os-tratamentos-higienicos-usa-bandana-na-cabeca-la-updraft-pre-smush-original.jpg 
+[2024-01-17 13:43:18 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-17 13:43:18 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2024/01/close-up-foto-de-uma-mulher-afro-americana-encaracolada-feliz-e-impressionada-levanta-os-punhos-cerrados-obtem-prazer-com-os-tratamentos-higienicos-usa-bandana-na-cabeca-la.jpg.The file was compressed from 324.21 KB to 95.14 KB, saving 70.65 percent, using WP-Optimize 
+[2024-01-17 13:43:18 : INFO] - Completed processing task with ID : 179, and type 'smush' 
+[2024-01-17 13:43:18 : INFO] - Processing task with ID : 180, and type 'smush' 
+[2024-01-17 13:43:18 : INFO] - Re_Smush_It_Task with attachment ID : 2172, autocreated on : January 17, 2024 01:38:10 
+[2024-01-17 13:43:18 : INFO] - File: finger_6880839.png, Compression quality: 92 
+[2024-01-17 13:43:19 : INFO] - Backing up the original image - 2024/01/finger_6880839-updraft-pre-smush-original.png 
+[2024-01-17 13:43:21 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-17 13:43:21 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2024/01/finger_6880839.png.The file was compressed from 7.37 KB to 3.50 KB, saving 52.47 percent, using WP-Optimize 
+[2024-01-17 13:43:21 : INFO] - Completed processing task with ID : 180, and type 'smush' 
+[2024-01-17 13:43:21 : INFO] - Processing task with ID : 181, and type 'smush' 
+[2024-01-17 13:43:21 : INFO] - Re_Smush_It_Task with attachment ID : 2173, autocreated on : January 17, 2024 01:38:10 
+[2024-01-17 13:43:21 : INFO] - File: forceps_2818963.png, Compression quality: 92 
+[2024-01-17 13:43:22 : INFO] - Backing up the original image - 2024/01/forceps_2818963-updraft-pre-smush-original.png 
+[2024-01-17 13:43:24 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-17 13:43:24 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2024/01/forceps_2818963.png.The file was compressed from 11.48 KB to 5.51 KB, saving 52.03 percent, using WP-Optimize 
+[2024-01-17 13:43:24 : INFO] - Completed processing task with ID : 181, and type 'smush' 
+[2024-01-17 13:43:24 : INFO] - Processing task with ID : 182, and type 'smush' 
+[2024-01-17 13:43:24 : INFO] - Re_Smush_It_Task with attachment ID : 2174, autocreated on : January 17, 2024 01:38:11 
+[2024-01-17 13:43:24 : INFO] - File: hair-dryer_3383298_Prancheta_1.png, Compression quality: 92 
+[2024-01-17 13:43:25 : INFO] - Backing up the original image - 2024/01/hair-dryer_3383298_Prancheta_1-updraft-pre-smush-original.png 
+[2024-01-17 13:43:26 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-17 13:43:26 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2024/01/hair-dryer_3383298_Prancheta_1.png.The file was compressed from 8.25 KB to 3.79 KB, saving 54.07 percent, using WP-Optimize 
+[2024-01-17 13:43:26 : INFO] - Completed processing task with ID : 182, and type 'smush' 
+[2024-01-17 13:43:26 : INFO] - Processing task with ID : 183, and type 'smush' 
+[2024-01-17 13:43:26 : INFO] - Re_Smush_It_Task with attachment ID : 2175, autocreated on : January 17, 2024 01:38:11 
+[2024-01-17 13:43:26 : INFO] - File: hairstylist_3290621.png, Compression quality: 92 
+[2024-01-17 13:43:27 : INFO] - Backing up the original image - 2024/01/hairstylist_3290621-updraft-pre-smush-original.png 
+[2024-01-17 13:43:29 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-17 13:43:29 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2024/01/hairstylist_3290621.png.The file was compressed from 13.54 KB to 6.44 KB, saving 52.47 percent, using WP-Optimize 
+[2024-01-17 13:43:29 : INFO] - Completed processing task with ID : 183, and type 'smush' 
+[2024-01-17 13:43:29 : INFO] - Processing task with ID : 184, and type 'smush' 
+[2024-01-17 13:43:29 : INFO] - Re_Smush_It_Task with attachment ID : 2176, autocreated on : January 17, 2024 01:38:11 
+[2024-01-17 13:43:29 : INFO] - File: mulher-jovem-de-pele-escura-surpreendida-limpa-o-rosto-com-espuma-chocada-com-a-falta-de-tempo-massageia-as-bochechas-concentra-se-usa-bandana-fica-de-pe-com-o-corpo-nu-con-scaled.jpg, Compression quality: 92 
+[2024-01-17 13:43:34 : INFO] - Backing up the original image - 2024/01/mulher-jovem-de-pele-escura-surpreendida-limpa-o-rosto-com-espuma-chocada-com-a-falta-de-tempo-massageia-as-bochechas-concentra-se-usa-bandana-fica-de-pe-com-o-corpo-nu-con-scaled-updraft-pre-smush-original.jpg 
+[2024-01-17 13:43:45 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-17 13:43:45 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2024/01/mulher-jovem-de-pele-escura-surpreendida-limpa-o-rosto-com-espuma-chocada-com-a-falta-de-tempo-massageia-as-bochechas-concentra-se-usa-bandana-fica-de-pe-com-o-corpo-nu-con-scaled.jpg.The file was compressed from 327.17 KB to 301.02 KB, saving 7.99 percent, using WP-Optimize 
+[2024-01-17 13:43:45 : INFO] - Completed processing task with ID : 184, and type 'smush' 
+[2024-01-17 13:43:45 : INFO] - Processing task with ID : 185, and type 'smush' 
+[2024-01-17 13:43:45 : INFO] - Re_Smush_It_Task with attachment ID : 2177, autocreated on : January 17, 2024 01:38:21 
+[2024-01-17 13:43:45 : INFO] - File: mulher-jovem-levanta-as-palmas-das-maos-sobre-o-rosto-mantem-os-olhos-fechados-mostra-dentes-brancos-usa-espuma-de-limpeza-para-cuidar-da-pele-obtem-verdadeiro-prazer.jpg, Compression quality: 92 
+[2024-01-17 13:43:48 : INFO] - Backing up the original image - 2024/01/mulher-jovem-levanta-as-palmas-das-maos-sobre-o-rosto-mantem-os-olhos-fechados-mostra-dentes-brancos-usa-espuma-de-limpeza-para-cuidar-da-pele-obtem-verdadeiro-prazer-updraft-pre-smush-original.jpg 
+[2024-01-17 13:43:51 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-17 13:43:51 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2024/01/mulher-jovem-levanta-as-palmas-das-maos-sobre-o-rosto-mantem-os-olhos-fechados-mostra-dentes-brancos-usa-espuma-de-limpeza-para-cuidar-da-pele-obtem-verdadeiro-prazer.jpg.The file was compressed from 340.47 KB to 98.07 KB, saving 71.19 percent, using WP-Optimize 
+[2024-01-17 13:43:51 : INFO] - Completed processing task with ID : 185, and type 'smush' 
+[2024-01-17 13:43:51 : INFO] - Processing task with ID : 186, and type 'smush' 
+[2024-01-17 13:43:51 : INFO] - Re_Smush_It_Task with attachment ID : 2178, autocreated on : January 17, 2024 01:38:22 
+[2024-01-17 13:43:51 : INFO] - File: vecteezy_beautiful-perfect-skin-gorgeous-young-woman-portrait-in-studio_5086947-scaled.jpg, Compression quality: 92 
+[2024-01-17 13:43:55 : INFO] - Backing up the original image - 2024/01/vecteezy_beautiful-perfect-skin-gorgeous-young-woman-portrait-in-studio_5086947-scaled-updraft-pre-smush-original.jpg 
+[2024-01-17 13:44:05 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-17 13:44:05 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2024/01/vecteezy_beautiful-perfect-skin-gorgeous-young-woman-portrait-in-studio_5086947-scaled.jpg.The file was compressed from 263.35 KB to 228.64 KB, saving 13.18 percent, using WP-Optimize 
+[2024-01-17 13:44:05 : INFO] - Completed processing task with ID : 186, and type 'smush' 
+[2024-01-17 13:44:05 : INFO] - Processing task with ID : 187, and type 'smush' 
+[2024-01-17 13:44:05 : INFO] - Re_Smush_It_Task with attachment ID : 2179, autocreated on : January 17, 2024 01:38:26 
+[2024-01-17 13:44:05 : INFO] - File: watercolors_3384073.png, Compression quality: 92 
+[2024-01-17 13:44:06 : INFO] - Backing up the original image - 2024/01/watercolors_3384073-updraft-pre-smush-original.png 
+[2024-01-17 13:44:08 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-17 13:44:08 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2024/01/watercolors_3384073.png.The file was compressed from 10.03 KB to 5.03 KB, saving 49.91 percent, using WP-Optimize 
+[2024-01-17 13:44:08 : INFO] - Completed processing task with ID : 187, and type 'smush' 
+[2024-01-17 13:44:08 : INFO] - Processing task with ID : 188, and type 'smush' 
+[2024-01-17 13:44:08 : INFO] - Re_Smush_It_Task with attachment ID : 2180, autocreated on : January 17, 2024 01:38:27 
+[2024-01-17 13:44:08 : INFO] - File: woman_3154975.png, Compression quality: 92 
+[2024-01-17 13:44:09 : INFO] - Backing up the original image - 2024/01/woman_3154975-updraft-pre-smush-original.png 
+[2024-01-17 13:44:11 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-17 13:44:11 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2024/01/woman_3154975.png.The file was compressed from 10.00 KB to 4.61 KB, saving 53.84 percent, using WP-Optimize 
+[2024-01-17 13:44:11 : INFO] - Completed processing task with ID : 188, and type 'smush' 
+[2024-01-17 13:44:11 : INFO] - Processing task with ID : 189, and type 'smush' 
+[2024-01-17 13:44:11 : INFO] - Re_Smush_It_Task with attachment ID : 2181, autocreated on : January 17, 2024 01:39:10 
+[2024-01-17 13:44:11 : INFO] - File: finger_6880839-1.png, Compression quality: 92 
+[2024-01-17 13:44:12 : INFO] - Backing up the original image - 2024/01/finger_6880839-1-updraft-pre-smush-original.png 
+[2024-01-17 13:44:14 : INFO] - There were no WebP conversion tools found on your server. 
+[2024-01-17 13:44:14 : INFO] - Successfully optimized the image - C:\xampp\htdocs\clinicapaolaribeiro/wp-content/uploads/2024/01/finger_6880839-1.png.The file was compressed from 7.37 KB to 3.50 KB, saving 52.47 percent, using WP-Optimize 
+[2024-01-17 13:44:14 : INFO] - Completed processing task with ID : 189, and type 'smush' 
+[2024-01-17 13:44:14 : INFO] - Lock option (updraft_lock_smush, _clinicaoptions) released 
+[2024-01-17 13:44:14 : INFO] - Successfully processed the queue (smush). 11 tasks were processed out of 11. 
+[2024-01-17 13:44:14 : INFO] - Lock option (updraft_lock_smush, _clinicaoptions) was deleted from the database 
+[2024-01-17 13:44:14 : INFO] - Cleaning up tasks of type (smush). A total of 11 tasks will be deleted. 
